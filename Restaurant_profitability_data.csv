@@ -1,0 +1,1150 @@
+Capacity_Score,Area,Age,Food_Diversity_Score,Type,Price_Range,Number of Menu Items,Profit
+6,Downtown,Recent,1,Banquet,5,9,109032
+6,Downtown,Developed,8,Banquet,5,10,114886
+4,Suburbs,Developed,3,Cafeteria,2,7,72303
+3,Downtown,Recent,7,Cafeteria,2,8,47721
+7,Suburbs,Well-Known,8,Banquet,3,5,99946
+7,Suburbs,Well-Known,4,Full Service Restaurant,5,4,142657
+7,Downtown,Developed,3,Full Service Restaurant,1,9,111040
+7,Suburbs,Well-Known,5,Cafeteria,5,4,109854
+5,Downtown,Well-Known,4,Banquet,5,1,106729
+5,Suburbs,Recent,3,Full Service Restaurant,5,5,102178
+1,Suburbs,Recent,8,Full Service Restaurant,2,10,72021
+7,Suburbs,Recent,5,Cafeteria,5,5,95288
+4,Downtown,Developed,8,Cafeteria,3,9,76469
+1,Downtown,Well-Known,3,Banquet,2,2,66417
+2,Suburbs,Well-Known,1,Cafeteria,4,7,70826
+1,Suburbs,Recent,5,Full Service Restaurant,3,1,72843
+4,Downtown,Recent,9,Full Service Restaurant,3,3,116089
+7,Downtown,Developed,2,Cafeteria,1,4,64258
+7,Downtown,Well-Known,7,Cafeteria,1,8,93670
+6,Suburbs,Developed,9,Full Service Restaurant,3,5,113923
+6,Downtown,Developed,7,Cafeteria,5,5,111629
+7,Suburbs,Well-Known,3,Cafeteria,1,9,85050
+3,Suburbs,Developed,1,Cafeteria,2,6,48605
+7,Downtown,Recent,10,Cafeteria,5,4,95047
+6,Suburbs,Recent,9,Banquet,5,1,76659
+5,Suburbs,Developed,8,Cafeteria,2,6,74102
+5,Downtown,Recent,2,Banquet,1,9,73748
+4,Suburbs,Recent,3,Full Service Restaurant,4,3,88500
+5,Downtown,Recent,4,Banquet,4,3,105100
+6,Suburbs,Well-Known,8,Full Service Restaurant,1,2,71908
+1,Downtown,Developed,6,Banquet,5,9,88230
+5,Downtown,Recent,1,Cafeteria,4,1,62478
+7,Suburbs,Recent,5,Full Service Restaurant,5,10,114137
+6,Downtown,Developed,2,Cafeteria,1,2,39929
+7,Suburbs,Developed,3,Banquet,2,4,85082
+6,Downtown,Recent,9,Banquet,2,6,103437
+4,Suburbs,Recent,9,Cafeteria,4,1,60711
+4,Suburbs,Well-Known,1,Cafeteria,5,3,102319
+5,Downtown,Developed,3,Full Service Restaurant,3,9,124485
+3,Downtown,Recent,9,Banquet,1,6,65381
+7,Suburbs,Developed,1,Full Service Restaurant,5,6,132893
+7,Downtown,Well-Known,7,Cafeteria,5,10,120046
+6,Downtown,Recent,1,Full Service Restaurant,3,4,117624
+2,Suburbs,Developed,10,Cafeteria,5,9,44565
+5,Downtown,Well-Known,10,Cafeteria,1,5,64643
+2,Downtown,Recent,2,Full Service Restaurant,2,6,75409
+7,Downtown,Well-Known,9,Banquet,5,2,108068
+5,Downtown,Well-Known,6,Banquet,1,7,72920
+1,Downtown,Developed,10,Banquet,5,10,85107
+7,Suburbs,Well-Known,9,Banquet,2,9,105069
+3,Downtown,Developed,6,Full Service Restaurant,2,10,91587
+2,Downtown,Developed,8,Full Service Restaurant,4,5,108375
+3,Downtown,Recent,8,Full Service Restaurant,2,5,102300
+6,Downtown,Developed,6,Banquet,2,1,61334
+5,Downtown,Well-Known,5,Full Service Restaurant,1,5,99291
+5,Downtown,Well-Known,2,Full Service Restaurant,3,9,129377
+4,Downtown,Recent,9,Cafeteria,5,6,91373
+7,Downtown,Developed,3,Banquet,1,3,76345
+7,Downtown,Well-Known,6,Cafeteria,3,3,81595
+5,Downtown,Developed,4,Full Service Restaurant,5,10,131279
+2,Downtown,Recent,10,Full Service Restaurant,1,9,68048
+3,Suburbs,Well-Known,3,Full Service Restaurant,3,3,105744
+6,Suburbs,Developed,9,Full Service Restaurant,2,7,115369
+6,Downtown,Recent,4,Banquet,5,9,108139
+6,Suburbs,Well-Known,1,Banquet,5,9,140156
+1,Downtown,Well-Known,5,Full Service Restaurant,3,8,98275
+2,Downtown,Developed,6,Full Service Restaurant,4,5,106992
+4,Downtown,Well-Known,5,Banquet,4,1,91714
+2,Downtown,Recent,10,Banquet,1,6,50564
+3,Downtown,Well-Known,3,Full Service Restaurant,1,4,99009
+6,Downtown,Recent,7,Full Service Restaurant,2,5,101244
+4,Downtown,Well-Known,2,Banquet,1,3,72225
+1,Suburbs,Recent,6,Banquet,5,7,54416
+6,Suburbs,Well-Known,2,Cafeteria,3,7,103062
+5,Downtown,Developed,3,Full Service Restaurant,4,2,96759
+6,Suburbs,Well-Known,9,Full Service Restaurant,3,10,130212
+5,Downtown,Developed,10,Full Service Restaurant,5,8,136128
+7,Suburbs,Recent,5,Full Service Restaurant,3,10,120809
+6,Downtown,Recent,1,Banquet,4,1,78873
+6,Downtown,Recent,9,Cafeteria,2,10,90128
+1,Suburbs,Recent,5,Full Service Restaurant,3,5,68192
+7,Suburbs,Recent,7,Cafeteria,5,8,97763
+4,Suburbs,Well-Known,9,Cafeteria,4,6,96120
+1,Downtown,Well-Known,2,Cafeteria,4,2,79523
+4,Suburbs,Well-Known,4,Banquet,3,1,82207
+2,Suburbs,Recent,10,Full Service Restaurant,1,2,87106
+7,Downtown,Recent,9,Cafeteria,3,10,100251
+4,Suburbs,Well-Known,6,Full Service Restaurant,5,3,136672
+5,Downtown,Well-Known,4,Cafeteria,3,2,70450
+3,Downtown,Well-Known,4,Full Service Restaurant,3,10,110082
+1,Suburbs,Well-Known,6,Cafeteria,5,6,85907
+7,Downtown,Recent,6,Cafeteria,5,4,95563
+5,Downtown,Well-Known,9,Cafeteria,2,3,62980
+5,Suburbs,Well-Known,10,Banquet,1,1,56017
+1,Suburbs,Developed,3,Banquet,2,8,70151
+4,Suburbs,Well-Known,10,Banquet,3,7,94642
+6,Downtown,Recent,4,Cafeteria,1,2,40109
+5,Downtown,Developed,9,Banquet,5,2,92645
+4,Suburbs,Well-Known,2,Banquet,5,6,131644
+1,Downtown,Well-Known,6,Full Service Restaurant,2,4,75120
+3,Downtown,Well-Known,1,Cafeteria,3,2,68826
+3,Suburbs,Developed,1,Cafeteria,2,4,56138
+1,Downtown,Developed,4,Banquet,1,1,48846
+5,Downtown,Developed,6,Full Service Restaurant,2,8,94811
+2,Downtown,Developed,2,Full Service Restaurant,4,1,106738
+3,Downtown,Recent,9,Banquet,3,6,85753
+2,Downtown,Recent,10,Cafeteria,2,8,45284
+7,Downtown,Recent,6,Cafeteria,2,9,95638
+5,Downtown,Well-Known,6,Cafeteria,5,6,119544
+6,Downtown,Well-Known,10,Cafeteria,3,1,64880
+7,Downtown,Recent,7,Cafeteria,5,8,105991
+6,Suburbs,Developed,6,Banquet,5,10,105917
+1,Suburbs,Recent,9,Cafeteria,5,4,43198
+1,Downtown,Recent,5,Cafeteria,3,6,58374
+6,Suburbs,Well-Known,9,Full Service Restaurant,5,10,151463
+5,Downtown,Developed,3,Banquet,3,5,103952
+5,Suburbs,Well-Known,2,Banquet,5,2,102712
+6,Downtown,Recent,9,Cafeteria,1,7,87440
+3,Suburbs,Developed,6,Banquet,5,2,83111
+3,Downtown,Recent,9,Cafeteria,2,10,49782
+2,Suburbs,Developed,1,Full Service Restaurant,3,10,85785
+5,Suburbs,Developed,9,Cafeteria,2,7,73620
+6,Downtown,Developed,4,Banquet,4,4,107729
+5,Downtown,Well-Known,1,Full Service Restaurant,5,8,151665
+1,Suburbs,Developed,5,Full Service Restaurant,4,2,89907
+4,Downtown,Recent,9,Cafeteria,3,10,76355
+1,Suburbs,Recent,7,Banquet,5,5,55958
+1,Downtown,Developed,2,Full Service Restaurant,2,5,69990
+7,Downtown,Developed,1,Banquet,4,1,79964
+2,Suburbs,Well-Known,9,Full Service Restaurant,2,1,78607
+3,Downtown,Developed,3,Cafeteria,4,7,80041
+4,Downtown,Developed,1,Banquet,4,9,105835
+4,Downtown,Recent,9,Cafeteria,4,6,85736
+7,Downtown,Recent,7,Full Service Restaurant,3,7,142572
+2,Downtown,Developed,6,Full Service Restaurant,4,4,108145
+7,Downtown,Well-Known,3,Banquet,4,4,107906
+2,Suburbs,Recent,4,Cafeteria,1,8,45920
+7,Downtown,Well-Known,2,Full Service Restaurant,3,1,94644
+4,Downtown,Recent,6,Cafeteria,3,6,77066
+7,Suburbs,Well-Known,5,Full Service Restaurant,4,2,100518
+4,Suburbs,Recent,9,Banquet,3,8,77218
+3,Suburbs,Recent,8,Full Service Restaurant,5,7,82063
+2,Suburbs,Developed,3,Cafeteria,3,7,51470
+4,Suburbs,Well-Known,2,Banquet,1,1,57151
+4,Suburbs,Recent,5,Full Service Restaurant,1,6,97728
+3,Downtown,Developed,7,Full Service Restaurant,4,1,102490
+7,Suburbs,Recent,1,Banquet,1,7,102369
+4,Suburbs,Well-Known,3,Cafeteria,2,1,38467
+2,Suburbs,Well-Known,6,Banquet,5,5,102326
+5,Suburbs,Recent,1,Banquet,1,6,77615
+1,Suburbs,Recent,5,Cafeteria,1,8,47402
+1,Suburbs,Recent,7,Banquet,4,9,56014
+2,Downtown,Recent,10,Banquet,1,3,49344
+5,Downtown,Recent,6,Cafeteria,2,5,73889
+5,Suburbs,Developed,6,Full Service Restaurant,4,3,104200
+6,Downtown,Developed,9,Full Service Restaurant,5,7,151616
+5,Suburbs,Recent,7,Banquet,2,2,65578
+5,Suburbs,Recent,9,Full Service Restaurant,1,4,96657
+2,Downtown,Developed,5,Banquet,2,6,71120
+4,Downtown,Developed,6,Cafeteria,5,5,98446
+2,Downtown,Recent,1,Full Service Restaurant,1,6,74593
+6,Downtown,Well-Known,7,Cafeteria,2,1,36855
+1,Downtown,Developed,9,Banquet,2,3,69344
+5,Downtown,Developed,2,Full Service Restaurant,3,4,130506
+1,Downtown,Recent,7,Cafeteria,5,6,70590
+3,Suburbs,Recent,7,Full Service Restaurant,3,7,84853
+5,Suburbs,Well-Known,5,Banquet,3,10,101507
+1,Suburbs,Recent,10,Cafeteria,1,1,42402
+4,Suburbs,Developed,4,Full Service Restaurant,4,9,101658
+1,Suburbs,Developed,5,Banquet,5,3,71953
+6,Downtown,Developed,4,Cafeteria,2,6,88245
+5,Suburbs,Developed,2,Cafeteria,3,8,73927
+5,Suburbs,Developed,2,Banquet,2,3,86633
+2,Downtown,Well-Known,7,Banquet,5,5,106612
+2,Downtown,Developed,6,Banquet,5,6,96230
+1,Downtown,Recent,5,Banquet,3,7,74323
+3,Downtown,Recent,10,Banquet,1,4,66813
+4,Downtown,Developed,6,Banquet,5,6,115654
+5,Suburbs,Developed,7,Full Service Restaurant,5,3,103748
+6,Suburbs,Well-Known,10,Full Service Restaurant,5,5,143358
+2,Downtown,Well-Known,10,Cafeteria,4,4,82754
+3,Suburbs,Developed,8,Banquet,3,2,81029
+4,Suburbs,Developed,1,Banquet,1,9,70484
+3,Suburbs,Developed,3,Full Service Restaurant,5,9,96397
+1,Suburbs,Well-Known,5,Cafeteria,2,9,44926
+7,Suburbs,Well-Known,5,Cafeteria,1,3,54544
+7,Downtown,Well-Known,6,Banquet,1,8,97213
+5,Suburbs,Well-Known,7,Banquet,4,9,110360
+2,Suburbs,Recent,3,Banquet,2,5,60298
+5,Suburbs,Well-Known,1,Banquet,4,5,108282
+1,Suburbs,Well-Known,5,Full Service Restaurant,3,6,98327
+1,Downtown,Well-Known,2,Full Service Restaurant,4,10,113144
+4,Suburbs,Recent,8,Full Service Restaurant,3,3,93869
+1,Suburbs,Well-Known,5,Full Service Restaurant,3,7,94338
+5,Suburbs,Well-Known,1,Full Service Restaurant,2,1,75584
+1,Downtown,Well-Known,8,Full Service Restaurant,2,1,75894
+1,Suburbs,Developed,2,Cafeteria,2,9,45358
+2,Suburbs,Developed,8,Full Service Restaurant,2,7,65481
+4,Suburbs,Developed,9,Banquet,1,9,71919
+5,Downtown,Recent,8,Cafeteria,2,4,71540
+3,Suburbs,Developed,5,Banquet,4,6,90440
+2,Downtown,Recent,1,Banquet,1,8,54786
+3,Suburbs,Developed,3,Cafeteria,5,5,69343
+4,Suburbs,Recent,2,Cafeteria,4,2,62862
+7,Suburbs,Well-Known,1,Full Service Restaurant,2,10,113025
+7,Suburbs,Developed,10,Full Service Restaurant,5,6,127603
+6,Downtown,Recent,6,Banquet,4,5,107837
+1,Downtown,Developed,3,Cafeteria,4,3,72144
+7,Suburbs,Well-Known,7,Full Service Restaurant,5,1,108278
+6,Downtown,Developed,10,Banquet,5,1,89457
+1,Suburbs,Recent,9,Banquet,4,10,54523
+6,Suburbs,Developed,8,Banquet,4,3,92598
+1,Suburbs,Well-Known,7,Banquet,2,5,64486
+2,Downtown,Recent,9,Banquet,1,5,51033
+7,Suburbs,Recent,4,Cafeteria,1,3,53518
+6,Suburbs,Well-Known,2,Cafeteria,2,7,92178
+7,Suburbs,Developed,3,Banquet,1,1,56863
+5,Downtown,Well-Known,1,Full Service Restaurant,2,1,73563
+7,Downtown,Developed,9,Cafeteria,3,8,106765
+6,Downtown,Developed,4,Banquet,3,6,112884
+5,Downtown,Well-Known,7,Cafeteria,1,9,59497
+1,Downtown,Recent,7,Banquet,2,7,60556
+5,Downtown,Recent,4,Full Service Restaurant,2,1,76501
+6,Suburbs,Recent,3,Banquet,5,7,97225
+6,Downtown,Developed,9,Cafeteria,3,3,76518
+3,Downtown,Well-Known,5,Cafeteria,4,1,76295
+1,Downtown,Recent,9,Banquet,2,4,64826
+7,Suburbs,Well-Known,2,Cafeteria,4,6,114484
+2,Downtown,Well-Known,10,Cafeteria,4,1,79762
+5,Downtown,Developed,8,Cafeteria,2,5,77207
+1,Downtown,Recent,10,Cafeteria,3,4,61228
+1,Suburbs,Developed,2,Banquet,5,5,72598
+1,Suburbs,Recent,2,Cafeteria,5,7,41522
+5,Suburbs,Well-Known,10,Cafeteria,3,2,70544
+1,Suburbs,Recent,5,Cafeteria,3,2,43366
+7,Downtown,Developed,2,Full Service Restaurant,2,8,119572
+7,Downtown,Well-Known,7,Full Service Restaurant,4,3,125709
+7,Downtown,Recent,4,Cafeteria,5,6,113667
+2,Downtown,Recent,3,Banquet,5,4,88172
+4,Downtown,Well-Known,8,Banquet,1,5,75288
+5,Suburbs,Developed,6,Full Service Restaurant,5,3,103489
+7,Suburbs,Developed,9,Banquet,5,1,80679
+3,Suburbs,Developed,7,Full Service Restaurant,3,1,89148
+3,Downtown,Developed,3,Cafeteria,5,3,86601
+1,Suburbs,Developed,8,Banquet,2,9,67653
+7,Suburbs,Well-Known,4,Cafeteria,4,1,68779
+6,Suburbs,Recent,9,Banquet,4,6,97449
+3,Suburbs,Recent,2,Banquet,3,5,71573
+7,Suburbs,Recent,2,Banquet,4,6,103618
+2,Suburbs,Well-Known,10,Full Service Restaurant,4,7,116080
+3,Downtown,Developed,5,Cafeteria,2,1,38363
+7,Suburbs,Developed,1,Full Service Restaurant,1,5,96383
+7,Downtown,Recent,10,Banquet,1,1,55473
+4,Suburbs,Well-Known,3,Full Service Restaurant,1,3,95902
+2,Suburbs,Well-Known,5,Banquet,1,4,56582
+3,Suburbs,Well-Known,7,Banquet,4,3,100113
+5,Downtown,Recent,2,Banquet,3,10,97641
+1,Downtown,Developed,10,Full Service Restaurant,4,8,104744
+6,Downtown,Recent,5,Full Service Restaurant,3,1,91465
+2,Suburbs,Developed,5,Full Service Restaurant,5,4,89467
+6,Downtown,Recent,9,Cafeteria,3,8,103147
+7,Suburbs,Developed,9,Full Service Restaurant,1,1,66734
+7,Downtown,Well-Known,6,Full Service Restaurant,5,7,161455
+7,Downtown,Recent,8,Cafeteria,3,9,103957
+3,Downtown,Recent,10,Full Service Restaurant,2,3,95239
+2,Suburbs,Developed,2,Cafeteria,2,7,45594
+6,Downtown,Recent,1,Full Service Restaurant,2,2,76344
+7,Suburbs,Well-Known,8,Full Service Restaurant,3,4,122657
+7,Suburbs,Well-Known,5,Banquet,5,10,143287
+4,Suburbs,Developed,1,Banquet,4,7,98756
+1,Downtown,Developed,3,Banquet,5,7,88423
+6,Downtown,Developed,9,Full Service Restaurant,1,1,64148
+7,Downtown,Developed,9,Banquet,3,2,79884
+2,Downtown,Well-Known,4,Banquet,5,1,114826
+4,Downtown,Recent,7,Cafeteria,2,10,68328
+1,Suburbs,Well-Known,2,Full Service Restaurant,3,1,93502
+1,Suburbs,Recent,3,Cafeteria,1,9,46385
+3,Downtown,Developed,3,Banquet,1,1,58861
+1,Downtown,Recent,2,Banquet,2,9,61177
+5,Suburbs,Well-Known,4,Banquet,5,6,133345
+2,Suburbs,Well-Known,5,Cafeteria,5,6,87047
+4,Suburbs,Developed,8,Cafeteria,1,8,68704
+5,Downtown,Developed,1,Cafeteria,2,2,43789
+4,Downtown,Developed,2,Full Service Restaurant,3,7,121971
+1,Suburbs,Developed,8,Full Service Restaurant,2,7,65218
+7,Suburbs,Recent,3,Banquet,3,3,84423
+3,Suburbs,Recent,7,Cafeteria,5,2,58873
+6,Downtown,Developed,3,Cafeteria,4,10,95077
+2,Suburbs,Recent,5,Cafeteria,3,7,40337
+3,Downtown,Recent,2,Cafeteria,4,5,81535
+3,Downtown,Well-Known,5,Full Service Restaurant,1,10,90657
+4,Downtown,Well-Known,4,Full Service Restaurant,4,6,130135
+2,Downtown,Recent,10,Full Service Restaurant,4,7,97338
+1,Suburbs,Well-Known,1,Full Service Restaurant,1,4,73218
+2,Suburbs,Well-Known,1,Full Service Restaurant,4,4,114361
+7,Downtown,Recent,2,Cafeteria,2,6,93551
+1,Suburbs,Recent,4,Cafeteria,1,8,47133
+7,Downtown,Recent,1,Banquet,3,5,101474
+4,Downtown,Recent,6,Full Service Restaurant,5,8,125963
+5,Downtown,Well-Known,1,Banquet,2,2,66507
+2,Suburbs,Recent,8,Full Service Restaurant,3,8,70765
+2,Suburbs,Well-Known,8,Banquet,5,7,102897
+2,Downtown,Recent,9,Cafeteria,5,5,77384
+1,Suburbs,Developed,10,Full Service Restaurant,1,6,63385
+1,Suburbs,Recent,5,Full Service Restaurant,4,10,63875
+4,Downtown,Recent,6,Cafeteria,2,1,44437
+6,Suburbs,Developed,3,Banquet,2,3,82603
+1,Suburbs,Recent,10,Banquet,2,6,59419
+4,Downtown,Well-Known,4,Cafeteria,1,2,42121
+1,Suburbs,Well-Known,1,Full Service Restaurant,3,6,97675
+7,Suburbs,Well-Known,5,Full Service Restaurant,5,4,142657
+3,Downtown,Recent,2,Cafeteria,2,4,54788
+7,Downtown,Developed,5,Cafeteria,1,5,76537
+1,Downtown,Well-Known,4,Full Service Restaurant,5,9,119005
+4,Suburbs,Developed,1,Banquet,5,1,78575
+1,Downtown,Recent,8,Full Service Restaurant,1,4,73825
+6,Suburbs,Recent,8,Banquet,1,9,94438
+3,Downtown,Well-Known,9,Cafeteria,3,1,66076
+5,Suburbs,Developed,1,Full Service Restaurant,1,7,99478
+7,Suburbs,Developed,7,Cafeteria,3,7,107611
+6,Downtown,Well-Known,1,Cafeteria,4,3,86896
+1,Downtown,Recent,9,Full Service Restaurant,5,8,97798
+7,Suburbs,Recent,5,Banquet,3,3,85961
+5,Suburbs,Well-Known,5,Full Service Restaurant,2,8,102658
+1,Suburbs,Developed,8,Full Service Restaurant,5,7,88740
+2,Downtown,Well-Known,6,Banquet,5,6,106094
+4,Suburbs,Developed,1,Full Service Restaurant,5,5,107623
+3,Suburbs,Developed,6,Cafeteria,3,10,64226
+5,Downtown,Recent,6,Cafeteria,2,1,47487
+4,Suburbs,Recent,6,Cafeteria,1,8,65647
+7,Downtown,Well-Known,9,Full Service Restaurant,3,9,135511
+7,Suburbs,Well-Known,4,Full Service Restaurant,2,10,113956
+1,Downtown,Developed,9,Cafeteria,4,3,69376
+3,Suburbs,Well-Known,3,Banquet,4,5,101701
+6,Downtown,Developed,8,Cafeteria,5,5,111500
+6,Suburbs,Recent,3,Banquet,3,3,84749
+3,Downtown,Developed,9,Full Service Restaurant,4,9,118670
+3,Suburbs,Developed,7,Banquet,3,4,90184
+6,Suburbs,Developed,4,Cafeteria,4,8,96514
+6,Suburbs,Well-Known,6,Cafeteria,4,8,104576
+1,Suburbs,Recent,3,Cafeteria,3,1,43348
+3,Suburbs,Recent,5,Full Service Restaurant,5,9,79301
+6,Suburbs,Recent,7,Full Service Restaurant,3,7,115254
+6,Downtown,Well-Known,2,Full Service Restaurant,3,7,136080
+4,Suburbs,Developed,10,Full Service Restaurant,3,10,100866
+1,Downtown,Well-Known,1,Cafeteria,3,4,71389
+2,Suburbs,Recent,9,Banquet,2,4,56219
+5,Suburbs,Developed,7,Full Service Restaurant,3,9,110352
+7,Suburbs,Well-Known,5,Banquet,5,2,102006
+5,Downtown,Well-Known,10,Cafeteria,2,2,42955
+6,Downtown,Recent,4,Full Service Restaurant,2,6,121080
+7,Downtown,Well-Known,6,Cafeteria,5,4,110641
+4,Downtown,Recent,1,Banquet,4,4,105717
+6,Downtown,Developed,3,Cafeteria,5,4,102182
+4,Suburbs,Recent,8,Cafeteria,2,3,61367
+5,Downtown,Recent,7,Banquet,3,7,103302
+2,Downtown,Well-Known,3,Banquet,4,3,97105
+6,Suburbs,Well-Known,3,Cafeteria,1,9,81183
+7,Suburbs,Well-Known,6,Cafeteria,1,8,93160
+7,Downtown,Developed,1,Full Service Restaurant,5,4,132893
+5,Downtown,Developed,2,Full Service Restaurant,3,9,126431
+2,Suburbs,Recent,3,Full Service Restaurant,5,4,72885
+2,Suburbs,Recent,2,Cafeteria,2,6,47122
+6,Suburbs,Developed,9,Cafeteria,4,5,92676
+6,Downtown,Well-Known,5,Banquet,2,7,107961
+4,Suburbs,Recent,8,Cafeteria,4,8,63936
+1,Downtown,Developed,5,Full Service Restaurant,1,7,66840
+6,Suburbs,Well-Known,4,Full Service Restaurant,4,1,102133
+2,Suburbs,Developed,2,Banquet,1,1,58644
+6,Downtown,Recent,3,Full Service Restaurant,1,7,111758
+5,Suburbs,Well-Known,4,Full Service Restaurant,4,4,134871
+5,Downtown,Recent,7,Cafeteria,5,9,90697
+4,Downtown,Recent,6,Banquet,1,4,79845
+6,Suburbs,Well-Known,1,Banquet,1,3,75535
+3,Suburbs,Developed,6,Full Service Restaurant,1,6,96878
+2,Downtown,Developed,3,Full Service Restaurant,2,9,68516
+2,Suburbs,Developed,4,Banquet,2,6,71792
+7,Suburbs,Recent,8,Full Service Restaurant,4,8,119157
+3,Downtown,Developed,8,Full Service Restaurant,2,10,95825
+7,Suburbs,Well-Known,3,Cafeteria,1,5,77649
+7,Suburbs,Well-Known,9,Full Service Restaurant,4,7,146858
+1,Downtown,Developed,6,Full Service Restaurant,3,2,99784
+4,Suburbs,Recent,5,Banquet,4,5,78198
+4,Downtown,Well-Known,8,Full Service Restaurant,4,8,124103
+5,Suburbs,Well-Known,4,Full Service Restaurant,2,5,107889
+2,Downtown,Well-Known,7,Banquet,5,9,104734
+1,Suburbs,Developed,5,Cafeteria,3,3,55612
+1,Suburbs,Developed,4,Full Service Restaurant,3,6,83846
+5,Suburbs,Recent,7,Full Service Restaurant,5,7,95156
+1,Suburbs,Developed,8,Banquet,5,5,72598
+1,Suburbs,Well-Known,8,Cafeteria,5,7,84523
+7,Downtown,Well-Known,6,Cafeteria,3,5,94195
+2,Suburbs,Well-Known,6,Full Service Restaurant,3,8,93135
+3,Suburbs,Well-Known,2,Banquet,1,1,59984
+3,Suburbs,Recent,2,Banquet,1,3,66837
+3,Downtown,Recent,2,Cafeteria,1,6,44582
+6,Suburbs,Developed,4,Cafeteria,5,8,94558
+5,Downtown,Developed,5,Banquet,5,5,114680
+4,Downtown,Recent,6,Banquet,3,5,96327
+1,Suburbs,Well-Known,9,Banquet,1,3,54669
+2,Suburbs,Developed,7,Banquet,4,6,72321
+4,Downtown,Developed,5,Banquet,1,4,80328
+5,Downtown,Well-Known,1,Banquet,3,1,70776
+2,Downtown,Recent,4,Banquet,4,10,81080
+2,Downtown,Recent,3,Banquet,1,7,52387
+7,Downtown,Developed,2,Full Service Restaurant,4,3,121150
+6,Downtown,Well-Known,3,Full Service Restaurant,2,6,117774
+1,Downtown,Recent,3,Banquet,4,10,78933
+4,Suburbs,Well-Known,3,Cafeteria,1,8,65952
+6,Suburbs,Developed,3,Full Service Restaurant,3,8,123590
+6,Suburbs,Recent,9,Cafeteria,3,4,79964
+7,Suburbs,Recent,5,Banquet,1,3,76292
+4,Suburbs,Developed,8,Cafeteria,5,2,71226
+3,Suburbs,Well-Known,3,Full Service Restaurant,3,1,93694
+3,Downtown,Well-Known,9,Cafeteria,3,7,69962
+2,Downtown,Well-Known,10,Banquet,3,5,82630
+4,Downtown,Well-Known,5,Full Service Restaurant,5,10,142849
+5,Suburbs,Well-Known,8,Full Service Restaurant,3,10,123457
+5,Suburbs,Developed,9,Banquet,5,3,92782
+6,Suburbs,Well-Known,5,Cafeteria,3,5,91985
+7,Downtown,Developed,5,Cafeteria,5,1,73490
+2,Suburbs,Recent,3,Cafeteria,4,3,43686
+7,Downtown,Well-Known,2,Banquet,3,4,94774
+3,Downtown,Recent,6,Banquet,3,6,87391
+7,Suburbs,Recent,8,Cafeteria,2,10,91383
+2,Downtown,Well-Known,2,Cafeteria,5,2,103989
+4,Suburbs,Recent,3,Full Service Restaurant,4,2,76671
+1,Downtown,Developed,10,Banquet,5,3,90087
+7,Suburbs,Well-Known,4,Cafeteria,5,2,88656
+2,Suburbs,Developed,8,Cafeteria,1,1,36666
+7,Downtown,Developed,8,Full Service Restaurant,4,2,99478
+7,Suburbs,Well-Known,9,Banquet,3,5,100540
+5,Downtown,Well-Known,8,Full Service Restaurant,4,7,136952
+3,Suburbs,Recent,6,Cafeteria,2,10,48167
+4,Downtown,Well-Known,8,Cafeteria,5,8,110844
+7,Suburbs,Recent,9,Cafeteria,1,1,33217
+3,Suburbs,Developed,4,Banquet,3,4,90184
+7,Suburbs,Well-Known,6,Cafeteria,5,5,118618
+6,Suburbs,Developed,6,Banquet,5,6,113224
+6,Downtown,Well-Known,2,Full Service Restaurant,3,6,135251
+4,Downtown,Developed,2,Banquet,1,7,72377
+4,Suburbs,Well-Known,2,Full Service Restaurant,4,4,129510
+2,Suburbs,Well-Known,1,Banquet,1,7,58014
+7,Suburbs,Recent,10,Full Service Restaurant,4,8,116900
+3,Downtown,Well-Known,9,Cafeteria,5,7,102807
+4,Downtown,Developed,3,Full Service Restaurant,4,3,124881
+6,Downtown,Recent,8,Banquet,4,2,79068
+1,Suburbs,Well-Known,3,Full Service Restaurant,5,5,114748
+5,Downtown,Well-Known,5,Full Service Restaurant,1,5,102577
+1,Suburbs,Developed,6,Banquet,2,10,70381
+3,Suburbs,Well-Known,2,Cafeteria,1,10,45343
+7,Suburbs,Recent,10,Full Service Restaurant,5,3,100417
+4,Suburbs,Developed,9,Cafeteria,5,8,69589
+5,Suburbs,Developed,3,Full Service Restaurant,4,10,109401
+3,Downtown,Well-Known,3,Banquet,5,10,111617
+4,Downtown,Recent,2,Cafeteria,2,10,67787
+7,Suburbs,Developed,2,Banquet,5,2,82471
+6,Downtown,Developed,4,Cafeteria,4,9,106138
+7,Downtown,Well-Known,10,Cafeteria,4,7,112916
+4,Downtown,Well-Known,10,Banquet,2,7,82628
+3,Downtown,Recent,5,Banquet,1,1,59064
+6,Downtown,Recent,4,Banquet,3,9,110283
+7,Downtown,Recent,10,Full Service Restaurant,4,8,139874
+3,Downtown,Developed,8,Banquet,3,8,91925
+7,Downtown,Well-Known,5,Cafeteria,3,2,68989
+3,Suburbs,Developed,2,Cafeteria,1,3,51584
+3,Suburbs,Recent,9,Full Service Restaurant,5,7,83662
+3,Suburbs,Well-Known,9,Cafeteria,4,5,83027
+5,Suburbs,Well-Known,3,Banquet,1,3,72164
+1,Suburbs,Recent,3,Full Service Restaurant,3,8,67314
+1,Suburbs,Recent,4,Full Service Restaurant,4,10,63875
+5,Suburbs,Developed,8,Cafeteria,4,10,72047
+3,Suburbs,Well-Known,2,Banquet,4,7,100943
+6,Downtown,Recent,10,Full Service Restaurant,1,8,112276
+7,Downtown,Well-Known,10,Banquet,3,7,114198
+6,Downtown,Well-Known,1,Banquet,1,2,62541
+4,Suburbs,Developed,10,Cafeteria,5,8,72909
+1,Suburbs,Well-Known,9,Full Service Restaurant,3,7,94338
+4,Downtown,Well-Known,3,Banquet,4,3,105328
+4,Downtown,Developed,10,Cafeteria,1,7,67310
+2,Suburbs,Well-Known,9,Cafeteria,2,1,35911
+2,Downtown,Well-Known,9,Banquet,4,10,91815
+4,Downtown,Recent,6,Banquet,2,7,86249
+3,Suburbs,Recent,7,Banquet,1,2,61715
+2,Suburbs,Recent,4,Banquet,2,3,60967
+2,Downtown,Well-Known,9,Full Service Restaurant,2,7,68345
+4,Suburbs,Recent,9,Cafeteria,5,10,65807
+7,Downtown,Recent,9,Banquet,2,1,63989
+2,Suburbs,Developed,3,Cafeteria,4,1,55617
+7,Downtown,Well-Known,4,Cafeteria,4,1,69053
+5,Downtown,Developed,3,Cafeteria,5,4,103622
+6,Suburbs,Well-Known,10,Full Service Restaurant,1,8,115553
+4,Downtown,Developed,2,Banquet,2,7,90682
+3,Downtown,Developed,5,Cafeteria,3,7,77157
+3,Suburbs,Well-Known,7,Full Service Restaurant,1,4,96610
+6,Suburbs,Well-Known,5,Full Service Restaurant,3,9,126783
+6,Suburbs,Developed,1,Banquet,4,1,65037
+6,Suburbs,Recent,10,Banquet,2,6,103476
+4,Suburbs,Recent,5,Banquet,3,1,70989
+1,Downtown,Developed,10,Cafeteria,2,7,39892
+7,Downtown,Developed,2,Cafeteria,5,10,104375
+6,Downtown,Well-Known,7,Banquet,1,2,62431
+3,Downtown,Well-Known,7,Full Service Restaurant,4,7,127223
+1,Downtown,Developed,7,Cafeteria,3,6,61563
+5,Downtown,Developed,8,Full Service Restaurant,5,9,130995
+7,Suburbs,Well-Known,9,Cafeteria,4,9,104385
+6,Downtown,Recent,1,Full Service Restaurant,5,9,128945
+1,Downtown,Well-Known,10,Cafeteria,3,8,66662
+2,Suburbs,Developed,1,Banquet,4,6,71010
+5,Suburbs,Well-Known,3,Cafeteria,4,2,76943
+5,Suburbs,Recent,9,Banquet,1,4,81658
+6,Suburbs,Developed,8,Full Service Restaurant,3,8,123204
+4,Downtown,Developed,9,Full Service Restaurant,5,10,124956
+4,Downtown,Well-Known,7,Full Service Restaurant,2,3,95413
+2,Suburbs,Well-Known,4,Cafeteria,1,5,45896
+2,Downtown,Recent,8,Full Service Restaurant,3,5,94330
+1,Suburbs,Well-Known,5,Full Service Restaurant,3,6,94490
+4,Downtown,Developed,1,Cafeteria,1,4,68233
+4,Suburbs,Recent,6,Full Service Restaurant,3,6,102751
+7,Suburbs,Recent,4,Cafeteria,3,3,71133
+1,Downtown,Developed,9,Cafeteria,5,7,71551
+1,Suburbs,Developed,10,Banquet,5,2,73768
+2,Downtown,Recent,3,Cafeteria,1,3,46169
+7,Suburbs,Well-Known,3,Banquet,2,8,112773
+2,Downtown,Well-Known,10,Cafeteria,1,7,34361
+3,Suburbs,Well-Known,2,Cafeteria,5,4,97997
+2,Suburbs,Well-Known,2,Cafeteria,4,2,71005
+4,Suburbs,Developed,8,Full Service Restaurant,2,6,101879
+7,Suburbs,Well-Known,4,Full Service Restaurant,4,10,143297
+4,Downtown,Developed,7,Banquet,5,10,106010
+7,Downtown,Recent,1,Full Service Restaurant,3,9,134735
+4,Suburbs,Recent,10,Banquet,4,5,81068
+6,Suburbs,Developed,2,Cafeteria,2,1,44433
+3,Suburbs,Well-Known,6,Cafeteria,5,5,97129
+7,Downtown,Recent,2,Banquet,1,1,58144
+2,Downtown,Developed,9,Banquet,3,5,79954
+6,Suburbs,Recent,3,Cafeteria,2,6,86187
+3,Suburbs,Well-Known,10,Full Service Restaurant,3,2,92865
+4,Suburbs,Well-Known,7,Banquet,3,9,94604
+1,Suburbs,Developed,4,Full Service Restaurant,1,9,66536
+5,Suburbs,Recent,8,Cafeteria,1,4,69235
+5,Suburbs,Developed,9,Cafeteria,5,9,76945
+6,Downtown,Recent,2,Full Service Restaurant,3,4,117284
+7,Downtown,Recent,7,Banquet,5,2,91304
+5,Downtown,Developed,10,Cafeteria,3,5,84462
+6,Downtown,Recent,7,Banquet,3,8,116447
+4,Suburbs,Developed,4,Banquet,4,3,93720
+6,Downtown,Well-Known,8,Cafeteria,2,3,56132
+2,Suburbs,Developed,8,Banquet,2,3,70930
+1,Downtown,Well-Known,6,Cafeteria,4,7,77877
+3,Suburbs,Well-Known,6,Cafeteria,3,1,66396
+1,Downtown,Well-Known,8,Full Service Restaurant,5,4,120749
+4,Downtown,Well-Known,3,Banquet,5,7,133677
+6,Suburbs,Recent,1,Cafeteria,4,9,90528
+6,Suburbs,Recent,3,Cafeteria,2,4,69533
+6,Suburbs,Recent,1,Full Service Restaurant,1,9,107386
+7,Suburbs,Well-Known,7,Cafeteria,4,8,112695
+7,Suburbs,Recent,3,Full Service Restaurant,5,2,82037
+5,Downtown,Recent,8,Full Service Restaurant,1,1,67450
+1,Suburbs,Developed,9,Banquet,1,4,52121
+6,Suburbs,Developed,4,Banquet,1,3,77839
+7,Suburbs,Well-Known,9,Banquet,4,9,116270
+1,Downtown,Developed,2,Banquet,2,9,67456
+1,Suburbs,Developed,9,Cafeteria,5,2,55658
+5,Suburbs,Developed,5,Banquet,5,7,101799
+5,Suburbs,Developed,2,Banquet,1,4,82315
+1,Downtown,Recent,9,Banquet,4,3,83039
+5,Downtown,Recent,6,Full Service Restaurant,3,4,124338
+4,Suburbs,Developed,4,Cafeteria,1,8,68704
+5,Suburbs,Well-Known,4,Cafeteria,4,9,92770
+7,Downtown,Recent,9,Full Service Restaurant,1,3,88895
+1,Downtown,Recent,9,Cafeteria,1,8,45629
+1,Suburbs,Well-Known,7,Cafeteria,3,6,63357
+3,Downtown,Well-Known,6,Cafeteria,3,8,70051
+6,Suburbs,Well-Known,6,Banquet,4,8,118354
+1,Downtown,Well-Known,7,Banquet,5,8,98439
+3,Downtown,Developed,1,Full Service Restaurant,1,6,95828
+6,Suburbs,Developed,8,Banquet,1,10,92257
+5,Suburbs,Developed,3,Full Service Restaurant,4,4,112833
+2,Suburbs,Developed,10,Banquet,2,1,72761
+1,Downtown,Recent,5,Cafeteria,5,2,73482
+7,Downtown,Recent,8,Banquet,3,8,115880
+1,Downtown,Developed,8,Banquet,1,5,46373
+7,Downtown,Recent,9,Cafeteria,3,4,86034
+1,Downtown,Developed,6,Full Service Restaurant,3,5,95938
+2,Suburbs,Well-Known,1,Banquet,5,2,106426
+6,Downtown,Well-Known,6,Full Service Restaurant,1,9,103116
+2,Suburbs,Well-Known,5,Cafeteria,4,1,71146
+4,Suburbs,Recent,4,Banquet,2,5,88767
+3,Downtown,Recent,8,Banquet,1,5,66373
+3,Downtown,Recent,3,Cafeteria,2,6,46759
+7,Downtown,Recent,3,Banquet,2,5,89387
+1,Suburbs,Developed,3,Cafeteria,3,2,56555
+4,Suburbs,Recent,5,Cafeteria,2,8,67123
+6,Downtown,Developed,2,Cafeteria,1,8,86712
+7,Downtown,Well-Known,8,Banquet,2,7,111961
+5,Suburbs,Developed,7,Full Service Restaurant,5,2,84514
+3,Suburbs,Developed,1,Banquet,2,1,72615
+1,Suburbs,Well-Known,8,Full Service Restaurant,3,6,94490
+1,Downtown,Recent,7,Cafeteria,1,1,42277
+4,Downtown,Recent,4,Cafeteria,1,3,56762
+5,Suburbs,Well-Known,3,Full Service Restaurant,1,6,100724
+6,Downtown,Recent,10,Cafeteria,3,7,108346
+4,Suburbs,Well-Known,10,Full Service Restaurant,5,8,136692
+2,Suburbs,Recent,3,Banquet,5,6,60442
+6,Suburbs,Developed,7,Cafeteria,2,2,48024
+7,Suburbs,Recent,8,Cafeteria,4,5,93873
+5,Suburbs,Well-Known,4,Cafeteria,1,10,64264
+1,Downtown,Recent,7,Full Service Restaurant,3,6,91667
+6,Suburbs,Developed,7,Banquet,2,2,69874
+1,Downtown,Developed,9,Full Service Restaurant,3,2,99747
+2,Suburbs,Well-Known,10,Banquet,1,6,57327
+2,Downtown,Well-Known,1,Cafeteria,4,9,77992
+6,Downtown,Developed,3,Full Service Restaurant,2,4,98351
+7,Suburbs,Recent,7,Cafeteria,3,7,108695
+1,Downtown,Well-Known,4,Full Service Restaurant,5,1,121741
+6,Downtown,Recent,7,Full Service Restaurant,4,6,139262
+5,Suburbs,Developed,5,Full Service Restaurant,2,2,76775
+3,Suburbs,Developed,10,Cafeteria,3,2,65545
+3,Downtown,Well-Known,10,Cafeteria,1,4,52021
+2,Suburbs,Recent,6,Banquet,5,4,59090
+3,Downtown,Well-Known,2,Banquet,5,8,114063
+5,Downtown,Well-Known,5,Banquet,3,5,100507
+7,Suburbs,Recent,3,Banquet,4,2,72015
+4,Downtown,Developed,4,Full Service Restaurant,1,4,98273
+1,Suburbs,Developed,1,Cafeteria,4,3,54373
+7,Suburbs,Recent,1,Banquet,5,1,79090
+2,Suburbs,Recent,2,Cafeteria,1,8,47563
+6,Suburbs,Well-Known,5,Full Service Restaurant,3,10,127193
+4,Downtown,Recent,10,Full Service Restaurant,1,9,90571
+4,Downtown,Recent,5,Cafeteria,3,2,62531
+5,Downtown,Developed,6,Banquet,3,7,104081
+6,Downtown,Recent,5,Full Service Restaurant,2,6,118664
+5,Suburbs,Recent,9,Cafeteria,1,10,65318
+1,Suburbs,Developed,4,Cafeteria,5,3,55216
+3,Suburbs,Developed,5,Banquet,2,9,75471
+1,Downtown,Well-Known,10,Full Service Restaurant,1,9,68796
+7,Suburbs,Well-Known,7,Cafeteria,1,1,34645
+7,Downtown,Developed,2,Cafeteria,2,4,74056
+6,Downtown,Developed,8,Full Service Restaurant,2,10,105376
+1,Downtown,Well-Known,7,Cafeteria,5,6,98932
+3,Suburbs,Developed,6,Banquet,4,9,86775
+5,Downtown,Developed,9,Banquet,5,2,92802
+3,Downtown,Developed,4,Full Service Restaurant,2,9,92727
+2,Suburbs,Well-Known,5,Cafeteria,4,1,70669
+5,Downtown,Recent,3,Full Service Restaurant,5,6,128364
+3,Suburbs,Well-Known,2,Cafeteria,2,6,48733
+5,Suburbs,Well-Known,5,Banquet,2,1,61914
+3,Suburbs,Recent,6,Cafeteria,4,10,57357
+2,Downtown,Developed,8,Cafeteria,4,8,73365
+6,Suburbs,Recent,2,Full Service Restaurant,1,4,91306
+7,Downtown,Well-Known,7,Banquet,2,9,104984
+5,Suburbs,Recent,10,Banquet,2,5,88864
+6,Downtown,Well-Known,7,Banquet,5,3,125053
+3,Suburbs,Recent,2,Banquet,5,1,66632
+7,Downtown,Developed,4,Full Service Restaurant,4,3,121669
+4,Suburbs,Recent,2,Cafeteria,2,5,72016
+5,Downtown,Developed,8,Cafeteria,4,5,93100
+1,Suburbs,Recent,10,Banquet,2,4,63292
+5,Downtown,Well-Known,3,Full Service Restaurant,2,6,100694
+7,Suburbs,Recent,7,Full Service Restaurant,4,7,116990
+3,Downtown,Recent,4,Cafeteria,5,1,79385
+5,Suburbs,Well-Known,9,Cafeteria,4,7,98537
+6,Suburbs,Developed,2,Full Service Restaurant,4,1,88121
+3,Downtown,Developed,10,Cafeteria,4,8,79356
+1,Suburbs,Well-Known,10,Cafeteria,4,6,71080
+3,Downtown,Well-Known,3,Full Service Restaurant,1,6,98034
+4,Downtown,Well-Known,2,Full Service Restaurant,4,10,125617
+3,Downtown,Well-Known,1,Banquet,5,10,110041
+5,Downtown,Developed,3,Cafeteria,5,3,86967
+5,Downtown,Recent,2,Cafeteria,4,6,88400
+7,Downtown,Well-Known,4,Full Service Restaurant,3,10,132831
+4,Downtown,Recent,9,Banquet,2,1,67196
+7,Suburbs,Recent,6,Cafeteria,2,3,58548
+5,Downtown,Developed,5,Full Service Restaurant,1,9,98186
+3,Suburbs,Recent,2,Full Service Restaurant,3,6,86959
+3,Suburbs,Recent,2,Cafeteria,3,10,55648
+3,Downtown,Recent,5,Full Service Restaurant,1,5,97952
+3,Downtown,Developed,9,Cafeteria,1,7,42500
+2,Suburbs,Developed,10,Banquet,3,4,72360
+3,Suburbs,Recent,9,Banquet,2,1,64398
+3,Downtown,Recent,2,Full Service Restaurant,4,7,120048
+7,Suburbs,Well-Known,3,Banquet,5,4,123389
+5,Suburbs,Developed,1,Banquet,5,8,98964
+3,Suburbs,Recent,1,Banquet,1,9,63553
+2,Downtown,Developed,8,Banquet,2,7,68053
+4,Downtown,Developed,10,Banquet,1,8,70662
+1,Downtown,Developed,6,Banquet,2,4,70883
+4,Suburbs,Developed,6,Cafeteria,1,8,64779
+5,Downtown,Well-Known,8,Full Service Restaurant,4,10,133241
+4,Suburbs,Recent,2,Banquet,2,8,81721
+5,Downtown,Recent,2,Banquet,2,1,66226
+3,Suburbs,Recent,3,Banquet,3,7,68752
+7,Downtown,Recent,3,Full Service Restaurant,2,1,74980
+3,Suburbs,Recent,4,Cafeteria,1,8,49495
+2,Downtown,Well-Known,3,Banquet,2,9,63087
+5,Downtown,Recent,5,Cafeteria,3,1,62782
+6,Suburbs,Developed,9,Banquet,1,3,79049
+4,Downtown,Well-Known,3,Cafeteria,4,8,91076
+7,Suburbs,Well-Known,7,Banquet,2,8,114576
+1,Downtown,Developed,5,Banquet,5,8,86954
+1,Suburbs,Well-Known,8,Full Service Restaurant,3,5,98392
+2,Suburbs,Recent,1,Cafeteria,1,10,45689
+7,Suburbs,Developed,8,Banquet,3,9,110048
+7,Suburbs,Recent,5,Full Service Restaurant,5,7,116644
+7,Downtown,Developed,1,Banquet,1,8,100533
+1,Suburbs,Recent,8,Full Service Restaurant,5,2,71284
+5,Suburbs,Well-Known,7,Banquet,2,7,87227
+1,Suburbs,Developed,6,Full Service Restaurant,1,2,81987
+3,Suburbs,Developed,9,Full Service Restaurant,2,5,102564
+6,Suburbs,Developed,7,Banquet,4,6,109316
+4,Downtown,Well-Known,3,Full Service Restaurant,5,6,146776
+5,Suburbs,Well-Known,1,Cafeteria,3,10,73190
+2,Downtown,Well-Known,2,Banquet,2,7,65110
+7,Suburbs,Well-Known,7,Cafeteria,4,8,106793
+1,Suburbs,Well-Known,1,Full Service Restaurant,1,9,67340
+5,Suburbs,Well-Known,4,Full Service Restaurant,5,9,144701
+7,Downtown,Recent,7,Full Service Restaurant,4,9,134773
+5,Downtown,Recent,1,Full Service Restaurant,5,2,95194
+7,Downtown,Recent,10,Cafeteria,5,7,112210
+4,Downtown,Developed,2,Banquet,3,7,97528
+1,Suburbs,Well-Known,7,Cafeteria,4,3,71312
+5,Suburbs,Recent,10,Banquet,3,8,86114
+5,Suburbs,Recent,8,Banquet,5,3,80155
+4,Downtown,Developed,3,Banquet,1,9,72689
+3,Downtown,Developed,8,Full Service Restaurant,5,10,120751
+2,Downtown,Recent,6,Full Service Restaurant,2,4,74272
+7,Suburbs,Well-Known,3,Banquet,3,4,95278
+3,Downtown,Well-Known,6,Full Service Restaurant,5,4,132587
+3,Downtown,Well-Known,6,Cafeteria,5,10,99529
+1,Downtown,Well-Known,3,Cafeteria,4,10,75245
+4,Downtown,Well-Known,8,Cafeteria,3,5,89632
+6,Suburbs,Recent,7,Cafeteria,1,5,75282
+5,Suburbs,Well-Known,10,Full Service Restaurant,1,6,97595
+7,Suburbs,Developed,2,Banquet,3,1,70698
+6,Suburbs,Recent,1,Cafeteria,3,3,67708
+7,Downtown,Developed,10,Cafeteria,3,3,76436
+2,Suburbs,Developed,7,Cafeteria,2,4,51965
+1,Suburbs,Recent,4,Full Service Restaurant,1,5,75969
+2,Downtown,Developed,7,Cafeteria,5,7,86329
+7,Suburbs,Developed,10,Banquet,4,9,109912
+5,Suburbs,Well-Known,5,Banquet,1,10,70046
+7,Downtown,Well-Known,9,Cafeteria,5,5,121610
+5,Downtown,Well-Known,9,Cafeteria,3,10,74301
+6,Suburbs,Well-Known,4,Cafeteria,4,9,100945
+1,Suburbs,Recent,10,Cafeteria,5,1,44580
+2,Suburbs,Well-Known,2,Banquet,3,9,81671
+3,Downtown,Developed,9,Cafeteria,4,6,82447
+6,Downtown,Recent,2,Full Service Restaurant,5,4,118929
+4,Downtown,Recent,1,Cafeteria,3,8,78195
+2,Suburbs,Well-Known,5,Full Service Restaurant,1,10,69972
+1,Downtown,Developed,6,Full Service Restaurant,2,7,67395
+6,Suburbs,Well-Known,2,Banquet,4,1,83801
+3,Downtown,Well-Known,3,Full Service Restaurant,4,3,120075
+2,Downtown,Developed,1,Banquet,1,2,51502
+2,Downtown,Well-Known,10,Banquet,2,10,62998
+3,Downtown,Developed,9,Full Service Restaurant,2,2,81461
+3,Suburbs,Well-Known,9,Cafeteria,2,6,48190
+6,Downtown,Developed,2,Banquet,3,9,111043
+5,Suburbs,Recent,2,Full Service Restaurant,3,10,99540
+4,Downtown,Developed,3,Full Service Restaurant,2,8,93524
+4,Suburbs,Well-Known,6,Banquet,5,6,131644
+1,Suburbs,Recent,1,Cafeteria,4,5,41858
+1,Downtown,Well-Known,9,Cafeteria,3,6,68306
+4,Downtown,Well-Known,7,Banquet,3,3,90056
+7,Suburbs,Developed,10,Full Service Restaurant,3,5,118026
+7,Downtown,Developed,6,Banquet,2,2,69620
+2,Downtown,Well-Known,4,Banquet,4,4,96192
+4,Downtown,Well-Known,10,Cafeteria,4,2,75828
+1,Downtown,Recent,2,Full Service Restaurant,4,5,96097
+6,Suburbs,Developed,4,Banquet,1,8,100056
+3,Downtown,Developed,3,Banquet,2,1,73360
+3,Downtown,Developed,1,Cafeteria,5,3,86601
+2,Downtown,Developed,7,Cafeteria,4,7,78838
+5,Downtown,Developed,6,Cafeteria,1,10,63812
+2,Downtown,Well-Known,1,Full Service Restaurant,2,4,75351
+6,Downtown,Developed,3,Cafeteria,4,3,80061
+3,Downtown,Developed,2,Cafeteria,3,7,77157
+2,Downtown,Well-Known,2,Banquet,1,7,54719
+6,Downtown,Developed,6,Banquet,4,1,78560
+5,Suburbs,Developed,2,Full Service Restaurant,3,3,102604
+4,Suburbs,Developed,4,Cafeteria,5,10,71540
+6,Downtown,Well-Known,2,Cafeteria,4,6,111508
+2,Suburbs,Well-Known,7,Banquet,1,9,57824
+1,Downtown,Developed,4,Banquet,5,7,86734
+3,Downtown,Developed,7,Banquet,5,6,103538
+3,Suburbs,Well-Known,4,Banquet,2,5,75573
+1,Downtown,Developed,7,Cafeteria,2,3,45087
+4,Suburbs,Recent,6,Full Service Restaurant,3,10,96432
+5,Suburbs,Recent,2,Banquet,2,4,88899
+4,Suburbs,Recent,10,Banquet,2,3,87653
+1,Downtown,Well-Known,2,Full Service Restaurant,2,8,70268
+5,Downtown,Developed,10,Banquet,3,9,100803
+5,Downtown,Well-Known,4,Full Service Restaurant,3,5,129130
+3,Suburbs,Recent,10,Banquet,4,8,67623
+2,Suburbs,Recent,9,Cafeteria,4,8,36991
+1,Suburbs,Well-Known,7,Banquet,3,4,83888
+4,Suburbs,Recent,7,Cafeteria,4,1,61495
+5,Downtown,Recent,5,Cafeteria,3,6,81117
+3,Downtown,Well-Known,10,Full Service Restaurant,2,3,95117
+7,Suburbs,Developed,9,Cafeteria,3,1,59185
+2,Downtown,Developed,7,Banquet,3,7,81411
+6,Suburbs,Developed,4,Full Service Restaurant,4,1,87371
+4,Suburbs,Recent,6,Banquet,1,6,74114
+5,Downtown,Developed,1,Banquet,1,3,77553
+4,Suburbs,Well-Known,1,Full Service Restaurant,2,6,100843
+5,Downtown,Well-Known,3,Full Service Restaurant,5,9,150421
+6,Suburbs,Recent,5,Cafeteria,4,5,86363
+6,Downtown,Well-Known,6,Cafeteria,2,7,93243
+1,Suburbs,Recent,9,Banquet,2,8,59704
+3,Suburbs,Recent,1,Banquet,4,2,69029
+1,Downtown,Developed,6,Banquet,1,8,46516
+3,Suburbs,Developed,1,Full Service Restaurant,1,1,72100
+6,Suburbs,Developed,10,Banquet,3,2,70470
+6,Suburbs,Well-Known,2,Cafeteria,2,4,70888
+1,Downtown,Recent,6,Banquet,4,5,82704
+6,Suburbs,Developed,7,Banquet,1,6,101428
+3,Suburbs,Well-Known,5,Cafeteria,1,7,44659
+4,Downtown,Developed,1,Banquet,1,5,78353
+2,Downtown,Recent,1,Full Service Restaurant,5,3,103364
+1,Downtown,Well-Known,5,Cafeteria,3,1,66644
+4,Downtown,Well-Known,7,Cafeteria,4,3,84772
+6,Suburbs,Recent,10,Cafeteria,3,5,83652
+2,Downtown,Well-Known,8,Banquet,4,8,92378
+5,Downtown,Developed,7,Cafeteria,1,8,70778
+7,Downtown,Recent,4,Full Service Restaurant,2,6,121135
+2,Suburbs,Developed,3,Full Service Restaurant,4,7,89528
+1,Suburbs,Recent,4,Banquet,4,1,59657
+3,Suburbs,Developed,7,Full Service Restaurant,1,5,100355
+2,Suburbs,Developed,5,Full Service Restaurant,1,1,77598
+3,Suburbs,Well-Known,10,Full Service Restaurant,1,8,92715
+1,Suburbs,Developed,6,Full Service Restaurant,5,10,87304
+2,Downtown,Recent,4,Banquet,5,5,86163
+3,Downtown,Well-Known,1,Full Service Restaurant,5,3,131612
+3,Downtown,Recent,6,Cafeteria,1,2,35697
+1,Downtown,Recent,2,Banquet,5,10,79759
+5,Downtown,Recent,2,Banquet,1,7,77518
+3,Downtown,Developed,10,Cafeteria,5,3,90575
+3,Suburbs,Developed,5,Cafeteria,4,1,63903
+4,Suburbs,Recent,10,Full Service Restaurant,2,2,73711
+5,Downtown,Well-Known,10,Banquet,1,2,61896
+6,Suburbs,Well-Known,2,Cafeteria,3,10,87603
+5,Suburbs,Recent,4,Banquet,4,9,83201
+7,Suburbs,Recent,6,Cafeteria,2,8,95556
+2,Suburbs,Developed,10,Banquet,3,3,72638
+7,Downtown,Developed,9,Cafeteria,3,9,102532
+4,Suburbs,Developed,7,Banquet,4,7,93646
+2,Downtown,Well-Known,6,Banquet,3,2,70404
+1,Downtown,Developed,2,Banquet,4,1,90072
+5,Suburbs,Recent,9,Cafeteria,5,5,76007
+3,Downtown,Recent,2,Cafeteria,4,7,78810
+5,Downtown,Well-Known,2,Cafeteria,5,2,95466
+6,Suburbs,Recent,10,Banquet,2,9,101858
+6,Downtown,Well-Known,2,Banquet,2,8,109842
+3,Downtown,Recent,7,Banquet,5,4,96616
+4,Downtown,Well-Known,5,Cafeteria,3,2,69877
+4,Downtown,Well-Known,10,Cafeteria,1,8,65309
+3,Suburbs,Well-Known,8,Banquet,4,4,101081
+5,Downtown,Recent,7,Banquet,5,4,109877
+6,Downtown,Recent,10,Banquet,5,8,114393
+3,Suburbs,Recent,6,Banquet,3,7,68752
+4,Suburbs,Recent,5,Full Service Restaurant,5,5,99714
+1,Suburbs,Recent,7,Cafeteria,4,6,41412
+1,Downtown,Well-Known,3,Cafeteria,5,9,96304
+6,Suburbs,Recent,2,Full Service Restaurant,3,9,111289
+3,Suburbs,Well-Known,9,Cafeteria,5,6,96837
+3,Downtown,Recent,5,Full Service Restaurant,3,6,119965
+5,Downtown,Well-Known,7,Full Service Restaurant,3,9,129377
+1,Suburbs,Developed,3,Cafeteria,4,9,44525
+7,Suburbs,Well-Known,4,Cafeteria,5,7,125249
+4,Downtown,Developed,4,Cafeteria,2,2,47998
+3,Suburbs,Developed,9,Banquet,4,9,86775
+3,Suburbs,Well-Known,3,Banquet,2,3,75022
+7,Downtown,Developed,4,Full Service Restaurant,1,1,63616
+7,Suburbs,Well-Known,5,Banquet,2,6,106064
+5,Downtown,Developed,5,Cafeteria,3,6,85513
+1,Suburbs,Recent,5,Full Service Restaurant,4,8,65196
+6,Suburbs,Well-Known,9,Banquet,1,6,99175
+3,Suburbs,Well-Known,3,Full Service Restaurant,3,4,110044
+5,Suburbs,Developed,10,Full Service Restaurant,4,9,112224
+4,Suburbs,Recent,3,Banquet,1,5,78933
+4,Downtown,Recent,6,Cafeteria,5,5,92970
+6,Suburbs,Recent,8,Banquet,1,6,102572
+2,Suburbs,Recent,1,Full Service Restaurant,5,10,68932
+2,Downtown,Developed,10,Banquet,1,10,50864
+3,Downtown,Recent,3,Full Service Restaurant,1,3,93004
+4,Suburbs,Well-Known,10,Full Service Restaurant,2,9,93813
+5,Suburbs,Developed,6,Cafeteria,2,7,74404
+4,Suburbs,Developed,2,Cafeteria,1,6,69428
+3,Suburbs,Developed,1,Banquet,3,2,81029
+6,Downtown,Developed,9,Cafeteria,5,6,118865
+1,Downtown,Developed,5,Banquet,1,6,45660
+4,Suburbs,Recent,10,Banquet,1,8,72083
+7,Suburbs,Recent,5,Cafeteria,1,9,87770
+2,Suburbs,Developed,6,Cafeteria,3,8,48122
+7,Downtown,Developed,9,Banquet,3,7,114118
+7,Suburbs,Well-Known,3,Full Service Restaurant,4,5,135828
+2,Downtown,Developed,6,Cafeteria,5,10,80985
+5,Downtown,Recent,4,Banquet,1,9,72636
+6,Downtown,Well-Known,10,Full Service Restaurant,2,9,106970
+2,Downtown,Recent,9,Banquet,5,6,84915
+6,Downtown,Developed,7,Cafeteria,1,10,82590
+3,Downtown,Recent,10,Cafeteria,5,4,86366
+3,Suburbs,Developed,8,Full Service Restaurant,5,7,100567
+2,Downtown,Well-Known,6,Cafeteria,4,6,78596
+1,Downtown,Well-Known,7,Banquet,2,1,65320
+4,Suburbs,Developed,6,Full Service Restaurant,4,2,87943
+6,Suburbs,Developed,4,Banquet,5,6,114024
+7,Downtown,Developed,9,Full Service Restaurant,3,5,121144
+1,Downtown,Well-Known,7,Cafeteria,2,1,39640
+2,Suburbs,Recent,4,Cafeteria,2,2,41808
+1,Suburbs,Recent,9,Full Service Restaurant,5,8,66980
+5,Downtown,Recent,3,Full Service Restaurant,4,6,130813
+6,Suburbs,Developed,5,Banquet,1,7,103525
+5,Suburbs,Recent,1,Full Service Restaurant,2,8,100305
+2,Downtown,Developed,1,Banquet,4,2,96690
+6,Suburbs,Recent,8,Cafeteria,5,4,85448
+7,Downtown,Developed,2,Full Service Restaurant,3,5,125197
+1,Suburbs,Well-Known,4,Cafeteria,1,2,39954
+7,Downtown,Well-Known,10,Cafeteria,3,3,81110
+4,Downtown,Developed,3,Banquet,1,2,65629
+4,Downtown,Recent,10,Cafeteria,2,7,72208
+2,Downtown,Well-Known,3,Banquet,2,4,63075
+3,Downtown,Well-Known,9,Banquet,4,5,101597
+1,Downtown,Developed,6,Cafeteria,5,7,73641
+1,Downtown,Well-Known,1,Banquet,4,3,95030
+7,Downtown,Well-Known,5,Full Service Restaurant,3,2,92233
+1,Suburbs,Developed,7,Cafeteria,3,2,55912
+5,Suburbs,Developed,4,Banquet,4,7,98025
+1,Suburbs,Well-Known,9,Full Service Restaurant,3,6,98327
+2,Downtown,Recent,9,Banquet,2,6,56971
+3,Downtown,Developed,4,Cafeteria,1,5,46815
+3,Downtown,Developed,6,Full Service Restaurant,4,4,124661
+7,Suburbs,Recent,2,Cafeteria,5,7,103182
+4,Downtown,Developed,7,Full Service Restaurant,2,1,80699
+1,Suburbs,Well-Known,6,Banquet,4,9,89760
+7,Downtown,Developed,5,Banquet,2,5,88733
+5,Suburbs,Well-Known,6,Cafeteria,4,2,77557
+5,Suburbs,Recent,1,Cafeteria,1,3,59521
+7,Suburbs,Recent,6,Banquet,3,10,106684
+5,Suburbs,Developed,4,Cafeteria,1,1,36744
+7,Suburbs,Recent,4,Full Service Restaurant,5,4,106945
+5,Downtown,Well-Known,8,Full Service Restaurant,1,8,97379
+1,Downtown,Developed,8,Cafeteria,4,10,65424
+2,Downtown,Recent,4,Banquet,4,2,92964
+2,Suburbs,Well-Known,4,Cafeteria,4,7,69803
+2,Suburbs,Recent,5,Full Service Restaurant,2,1,78742
+5,Downtown,Well-Known,5,Cafeteria,5,3,101904
+2,Downtown,Well-Known,6,Cafeteria,3,2,68453
+2,Downtown,Developed,1,Cafeteria,3,9,66663
+6,Suburbs,Well-Known,2,Full Service Restaurant,2,2,75875
+7,Downtown,Developed,10,Full Service Restaurant,1,4,93200
+3,Suburbs,Well-Known,2,Cafeteria,3,8,72542
+1,Downtown,Developed,6,Banquet,5,10,85107
+5,Suburbs,Developed,7,Full Service Restaurant,1,5,101681
+6,Downtown,Recent,1,Cafeteria,2,2,41929
+6,Downtown,Well-Known,9,Cafeteria,3,4,88789
+2,Suburbs,Well-Known,7,Full Service Restaurant,1,10,69972
+4,Downtown,Recent,7,Cafeteria,1,5,62237
+5,Suburbs,Developed,9,Banquet,4,7,98025
+3,Suburbs,Developed,10,Cafeteria,2,4,55859
+3,Downtown,Developed,2,Full Service Restaurant,1,3,94566
+2,Downtown,Well-Known,8,Banquet,5,7,105887
+1,Downtown,Recent,9,Cafeteria,3,9,60603
+2,Suburbs,Developed,8,Cafeteria,4,10,46005
+1,Downtown,Recent,5,Full Service Restaurant,5,7,97133
+7,Downtown,Well-Known,10,Cafeteria,3,6,104524
+6,Suburbs,Recent,2,Full Service Restaurant,5,2,79356
+6,Suburbs,Well-Known,9,Full Service Restaurant,3,7,134962
+3,Downtown,Well-Known,9,Cafeteria,1,4,54599
+6,Suburbs,Well-Known,8,Cafeteria,1,4,63554
+6,Downtown,Recent,2,Cafeteria,3,8,102224
+4,Suburbs,Recent,10,Full Service Restaurant,4,10,93919
+6,Suburbs,Recent,8,Cafeteria,4,10,91257
+3,Downtown,Recent,10,Cafeteria,1,7,44748
+5,Suburbs,Well-Known,10,Banquet,3,6,100527
+2,Downtown,Recent,6,Full Service Restaurant,3,2,98323
+3,Suburbs,Well-Known,2,Banquet,5,1,104470
+4,Downtown,Developed,10,Full Service Restaurant,5,7,130069
+2,Downtown,Recent,5,Cafeteria,2,10,44697
+1,Downtown,Well-Known,9,Cafeteria,4,1,78742
+4,Downtown,Recent,3,Cafeteria,4,8,81973
+3,Downtown,Developed,5,Cafeteria,4,2,78578
+4,Downtown,Recent,1,Cafeteria,2,2,49729
+1,Downtown,Recent,1,Full Service Restaurant,2,3,72290
+3,Suburbs,Developed,6,Cafeteria,1,7,48394
+3,Suburbs,Recent,9,Full Service Restaurant,5,6,84129
+4,Suburbs,Well-Known,8,Full Service Restaurant,5,8,135408
+6,Suburbs,Well-Known,6,Banquet,2,6,100998
+3,Suburbs,Recent,1,Full Service Restaurant,2,9,95314
+3,Suburbs,Recent,5,Full Service Restaurant,2,8,92284
+2,Suburbs,Recent,8,Banquet,2,4,60881
+6,Suburbs,Recent,3,Cafeteria,1,5,73971
+3,Suburbs,Recent,6,Cafeteria,4,8,58880
+6,Downtown,Recent,9,Banquet,1,6,99836
+7,Downtown,Recent,2,Cafeteria,1,10,88419
+1,Downtown,Developed,8,Banquet,1,9,46348
+4,Downtown,Developed,4,Banquet,3,1,80934
+4,Downtown,Developed,9,Cafeteria,4,3,78669
+4,Downtown,Developed,4,Full Service Restaurant,2,3,98628
+6,Suburbs,Well-Known,2,Full Service Restaurant,1,2,71908
+1,Suburbs,Well-Known,3,Cafeteria,4,6,71080
+1,Downtown,Recent,7,Cafeteria,2,5,46021
+5,Suburbs,Recent,2,Cafeteria,2,9,69729
+6,Downtown,Well-Known,9,Full Service Restaurant,2,6,116205
+2,Suburbs,Recent,10,Cafeteria,4,5,42493
+5,Suburbs,Well-Known,2,Banquet,3,7,101966
+2,Suburbs,Developed,9,Cafeteria,5,2,56048
+1,Downtown,Recent,3,Full Service Restaurant,2,2,83856
+6,Downtown,Recent,1,Cafeteria,4,8,104970
+2,Downtown,Recent,6,Banquet,3,1,77690
+4,Downtown,Developed,2,Full Service Restaurant,3,4,125459
+6,Downtown,Well-Known,5,Full Service Restaurant,3,9,133340
+3,Suburbs,Recent,2,Cafeteria,4,3,61691
+3,Suburbs,Developed,7,Banquet,4,2,82557
+7,Downtown,Recent,5,Cafeteria,3,2,64752
+6,Downtown,Well-Known,4,Cafeteria,1,9,81836
+6,Downtown,Well-Known,1,Banquet,4,8,120189
+5,Suburbs,Developed,10,Cafeteria,1,2,41011
+1,Downtown,Developed,10,Banquet,4,5,87460
+3,Downtown,Well-Known,3,Cafeteria,2,4,56495
+5,Suburbs,Recent,10,Full Service Restaurant,1,4,100604
+1,Downtown,Developed,1,Banquet,4,2,92016
+2,Suburbs,Well-Known,9,Banquet,4,9,92504
+4,Downtown,Developed,4,Full Service Restaurant,1,5,100548
+3,Downtown,Developed,2,Cafeteria,1,3,47816
+2,Downtown,Developed,8,Banquet,4,9,88345
+3,Downtown,Recent,8,Cafeteria,2,5,51280
+3,Suburbs,Recent,10,Banquet,5,8,65817
+3,Suburbs,Well-Known,2,Banquet,5,4,111620
+2,Downtown,Developed,3,Full Service Restaurant,5,5,108651
+2,Suburbs,Recent,7,Banquet,1,3,55870
+3,Downtown,Developed,6,Full Service Restaurant,5,3,120933
+6,Suburbs,Well-Known,2,Banquet,5,8,138810
+5,Suburbs,Recent,7,Full Service Restaurant,4,3,86165
+2,Downtown,Well-Known,8,Cafeteria,4,4,82182
+4,Downtown,Developed,2,Cafeteria,4,8,83854
+2,Downtown,Recent,8,Cafeteria,2,3,47340
+3,Downtown,Developed,3,Full Service Restaurant,4,6,127226
+7,Downtown,Developed,1,Banquet,4,1,79964
+4,Suburbs,Well-Known,9,Banquet,1,7,67588
+3,Downtown,Developed,4,Full Service Restaurant,3,5,117632
+7,Suburbs,Well-Known,8,Cafeteria,4,5,104229
+1,Downtown,Recent,9,Cafeteria,2,6,44412
+2,Suburbs,Well-Known,4,Full Service Restaurant,4,10,112434
+1,Downtown,Developed,7,Full Service Restaurant,4,2,105899
+3,Downtown,Well-Known,8,Banquet,4,4,103008
+4,Suburbs,Recent,10,Cafeteria,2,1,40264
+1,Suburbs,Well-Known,7,Banquet,2,2,61082
+3,Suburbs,Recent,5,Full Service Restaurant,2,10,89182
+5,Suburbs,Recent,10,Banquet,4,7,82837
+1,Downtown,Recent,9,Banquet,5,7,83401
+5,Downtown,Recent,2,Banquet,3,7,102200
+7,Downtown,Developed,5,Full Service Restaurant,2,8,117175
+4,Suburbs,Developed,2,Full Service Restaurant,1,10,97301
+2,Suburbs,Well-Known,9,Banquet,3,10,80017
+2,Suburbs,Well-Known,10,Full Service Restaurant,1,1,77428
+7,Suburbs,Recent,5,Banquet,5,1,79636
+2,Downtown,Recent,9,Banquet,1,9,52999
+7,Downtown,Developed,4,Full Service Restaurant,1,10,109892
+7,Suburbs,Recent,6,Cafeteria,2,5,83443
+1,Suburbs,Well-Known,5,Full Service Restaurant,4,9,107563
+5,Downtown,Developed,8,Cafeteria,4,4,92261
+4,Downtown,Recent,7,Banquet,5,10,98026
+2,Suburbs,Well-Known,1,Cafeteria,3,3,64681
+7,Suburbs,Recent,8,Cafeteria,2,1,39658
+7,Downtown,Recent,10,Full Service Restaurant,1,1,64442
+7,Suburbs,Well-Known,6,Cafeteria,5,9,116503
+3,Downtown,Developed,8,Banquet,4,7,102024
+2,Downtown,Developed,9,Banquet,4,7,90428
+6,Downtown,Developed,9,Cafeteria,2,2,48524
+2,Downtown,Recent,6,Banquet,2,9,60968
+1,Downtown,Recent,10,Cafeteria,5,3,69001
+5,Downtown,Well-Known,8,Cafeteria,2,2,48253
+4,Suburbs,Recent,10,Banquet,4,1,66053
+7,Downtown,Recent,9,Full Service Restaurant,1,2,66203
+6,Suburbs,Recent,10,Cafeteria,4,4,82807
+1,Suburbs,Well-Known,3,Full Service Restaurant,2,1,76510
+6,Suburbs,Recent,6,Cafeteria,4,2,63512
+7,Downtown,Recent,7,Banquet,3,8,114860
+1,Suburbs,Recent,3,Banquet,3,1,59097
+2,Downtown,Recent,1,Banquet,1,9,52812
+5,Suburbs,Recent,3,Banquet,3,1,68847
+7,Downtown,Well-Known,6,Full Service Restaurant,4,9,146161
+3,Downtown,Developed,7,Banquet,1,7,63448
+7,Suburbs,Developed,8,Cafeteria,1,7,92937
+7,Suburbs,Well-Known,1,Full Service Restaurant,3,2,94009
+5,Suburbs,Developed,5,Banquet,4,10,98068
+6,Downtown,Well-Known,10,Cafeteria,3,6,99619
+1,Downtown,Recent,2,Full Service Restaurant,5,9,97511
+7,Suburbs,Recent,4,Banquet,2,7,114274
+2,Suburbs,Well-Known,1,Banquet,3,9,81671
+5,Suburbs,Developed,8,Full Service Restaurant,2,1,79640
+3,Downtown,Developed,6,Cafeteria,1,7,42836
+6,Downtown,Well-Known,3,Full Service Restaurant,1,2,67071
+6,Downtown,Developed,8,Banquet,4,1,75837
+1,Suburbs,Recent,5,Cafeteria,1,3,47942
+5,Suburbs,Developed,1,Full Service Restaurant,3,9,110352
+7,Suburbs,Recent,3,Cafeteria,5,1,69349
+4,Suburbs,Well-Known,5,Banquet,1,4,73381
+5,Suburbs,Developed,7,Full Service Restaurant,5,8,111167
+1,Downtown,Developed,2,Banquet,4,7,85541
+2,Downtown,Recent,8,Banquet,2,3,58166
+3,Downtown,Recent,7,Full Service Restaurant,2,7,94108
+2,Suburbs,Recent,4,Banquet,1,9,59224
+5,Downtown,Developed,1,Cafeteria,5,9,95929
+3,Suburbs,Recent,3,Banquet,2,6,69909
+1,Suburbs,Well-Known,5,Banquet,1,6,55160
+1,Suburbs,Developed,3,Full Service Restaurant,1,9,66603
+7,Suburbs,Developed,5,Full Service Restaurant,4,9,127674
+6,Suburbs,Developed,7,Cafeteria,3,6,94168
+2,Downtown,Developed,10,Cafeteria,3,2,75400
+2,Downtown,Recent,8,Banquet,2,7,64146
+4,Suburbs,Recent,5,Cafeteria,1,4,69665
+6,Suburbs,Recent,8,Cafeteria,4,9,90701
+1,Downtown,Developed,10,Cafeteria,1,7,37143
+7,Suburbs,Developed,1,Full Service Restaurant,5,1,91315
+3,Suburbs,Recent,1,Banquet,3,4,70406
+1,Suburbs,Recent,3,Cafeteria,2,2,42811
+4,Suburbs,Developed,10,Full Service Restaurant,3,9,101054
+7,Suburbs,Well-Known,8,Banquet,3,4,95278
+2,Suburbs,Well-Known,7,Banquet,4,3,98369
+3,Downtown,Recent,1,Cafeteria,1,2,35992
+6,Suburbs,Well-Known,7,Cafeteria,3,8,105043
+4,Suburbs,Well-Known,5,Full Service Restaurant,4,9,125159
+4,Suburbs,Well-Known,6,Banquet,4,2,92549
+5,Suburbs,Developed,4,Cafeteria,1,3,56693
+6,Suburbs,Recent,10,Cafeteria,3,9,90998
+4,Downtown,Recent,6,Cafeteria,5,6,91517
+6,Downtown,Recent,7,Banquet,1,8,100022
+7,Suburbs,Developed,8,Full Service Restaurant,1,9,113510
+4,Suburbs,Developed,9,Full Service Restaurant,1,10,93839
+3,Downtown,Developed,3,Cafeteria,3,3,75173
+2,Suburbs,Developed,9,Full Service Restaurant,2,1,78158
+7,Downtown,Recent,6,Banquet,2,1,64231
+5,Suburbs,Developed,4,Cafeteria,3,10,71299
+2,Downtown,Recent,10,Banquet,2,2,63835
+4,Downtown,Well-Known,8,Cafeteria,2,2,41365
+5,Suburbs,Recent,3,Banquet,2,10,81136
+3,Suburbs,Developed,8,Full Service Restaurant,1,9,94526
+2,Downtown,Developed,5,Banquet,1,4,48814
+5,Suburbs,Well-Known,5,Cafeteria,2,5,81321
+7,Downtown,Well-Known,1,Full Service Restaurant,3,10,133370
+7,Suburbs,Recent,4,Banquet,5,2,81836
+4,Downtown,Recent,3,Full Service Restaurant,2,5,103684
+3,Suburbs,Recent,6,Cafeteria,1,4,54068
+3,Suburbs,Developed,8,Cafeteria,3,8,65500
+6,Suburbs,Recent,9,Cafeteria,3,3,66598
+5,Suburbs,Recent,7,Full Service Restaurant,3,4,109417
