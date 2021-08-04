@@ -51,7 +51,7 @@ url='https://raw.githubusercontent.com/AmirMK/BYOM_Tableau/main/Restaurant_profi
 df = pd.read_csv(url)
 
 Target = 'Profit'
-categorical_features = ['City', 'Area', 'Age', 'Type']
+categorical_features = ['Area', 'Age', 'Type']
 numerical_feature = ['Capacity_Score', 'Food_Diversity_Score', 'Price_Range']
 target = 'Profit'
 label=df[target]
@@ -76,9 +76,9 @@ clf = regressor_selection(encoder.transform(data),label, metric = 'r2')
 model = clf.fit(encoder.transform(data),label)                
 
 
-def Profitability_Prediction(_arg1, _arg2, _arg3, _arg4, _arg5, _arg6, _arg7):    
-    input_data = np.column_stack([_arg1, _arg2, _arg3, _arg4, _arg5, _arg6, _arg7])
-    X = pd.DataFrame(input_data,columns=['City','Area','Age','Type','Capacity_Score',
+def Profitability_Prediction(_arg1, _arg2, _arg3, _arg4, _arg5, _arg6):    
+    input_data = np.column_stack([_arg1, _arg2, _arg3, _arg4, _arg5, _arg6])
+    X = pd.DataFrame(input_data,columns=['Area','Age','Type','Capacity_Score',
                                          'Food_Diversity_Score','Price_Range'])
     result = model.predict(encoder.transform(X))
     return result.tolist()
