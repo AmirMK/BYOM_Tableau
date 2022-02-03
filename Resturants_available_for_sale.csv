@@ -1,0 +1,214 @@
+﻿Age,Area,Capacity,County Name,Number of Menu Items,Price Range,State,Type,Zip Code,Cost
+Recent,Downtown,100+,Los Angeles,7-10,$$,California,Banquet,90002,1690000
+Recent,Suburbs,15-20,Los Angeles,10-15,$,California,Full Service Restaurant,90044,1770000
+Developed,Downtown,70-90,Los Angeles,Salad & Sandwich only,$$$$$,California,Cafeteria,90061,1480000
+Developed,Downtown,30-50,Los Angeles,5-7,$,California,Banquet,90001,840000
+Well-Known,Suburbs,100+,Los Angeles,< 5,$$$$$,California,Banquet,90247,1630000
+Well-Known,Suburbs,70-90,Los Angeles,Salad & Sandwich only,$$$$,California,Cafeteria,90221,1140000
+Well-Known,Suburbs,10-15,Los Angeles,5-7,$$$$,California,Banquet,90222,1450000
+Well-Known,Downtown,70-90,Los Angeles,15+,$$,California,Banquet,90223,1270000
+Well-Known,Suburbs,30-50,Los Angeles,5-7,$,California,Full Service Restaurant,90224,1040000
+Well-Known,Downtown,10-15,Los Angeles,< 5,$$$,California,Banquet,90248,1610000
+Recent,Suburbs,70-90,Los Angeles,15+,$$,California,Banquet,90249,2220000
+Developed,Suburbs,30-50,Los Angeles,5-7,$$$,California,Banquet,90251,1420000
+Developed,Suburbs,50-70,Los Angeles,5-7,$$$$$,California,Full Service Restaurant,90260,1600000
+Developed,Downtown,10-15,Los Angeles,5-7,$$,California,Cafeteria,90262,1370000
+Well-Known,Suburbs,20-30,Los Angeles,15+,$$$$,California,Cafeteria,90278,1210000
+Well-Known,Downtown,10-15,Los Angeles,Salad bar only,$$$$,California,Cafeteria,90280,1560000
+Developed,Downtown,10-15,Los Angeles,15+,$$$$,California,Full Service Restaurant,90303,1760000
+Well-Known,Downtown,<10,Los Angeles,10-15,$,California,Full Service Restaurant,90304,830000
+Developed,Downtown,15-20,Los Angeles,7-10,$$$$,California,Banquet,90305,1960000
+Well-Known,Downtown,70-90,Los Angeles,Salad & Sandwich only,$,California,Banquet,90501,970000
+Recent,Downtown,10-15,Los Angeles,Salad bar only,$$$$$,California,Banquet,90502,1370000
+Well-Known,Downtown,20-30,Los Angeles,7-10,$$,California,Full Service Restaurant,90504,1130000
+Developed,Downtown,90-100,Los Angeles,7-10,$,California,Banquet,90510,990000
+Recent,Downtown,10-15,Los Angeles,5-7,$$$$,California,Banquet,90745,1780000
+Recent,Downtown,No seat,Los Angeles,5-7,$$,California,Cafeteria,90747,1440000
+Recent,Downtown,<10,Los Angeles,Salad bar only,$$$$,California,Full Service Restaurant,90895,1870000
+Developed,Suburbs,<10,Riverside,15+,$$$$,California,Banquet,92324,840000
+Recent,Downtown,100+,Riverside,7-10,$$$$$,California,Full Service Restaurant,92501,1410000
+Recent,Suburbs,100+,Riverside,5-7,$$$,California,Cafeteria,92503,930000
+Well-Known,Suburbs,70-90,Riverside,5-7,$$$$$,California,Banquet,92504,1840000
+Recent,Suburbs,10-15,Riverside,Salad & Sandwich only,$$$$,California,Full Service Restaurant,92505,800000
+Recent,Downtown,20-30,Riverside,7-10,$$$$,California,Banquet,92507,2110000
+Developed,Suburbs,50-70,Riverside,5-7,$$$$$,California,Cafeteria,92508,1060000
+Recent,Suburbs,30-50,Riverside,7-10,$$$$$,California,Cafeteria,92509,1500000
+Developed,Suburbs,50-70,Riverside,Salad bar only,$$,California,Cafeteria,92513,720000
+Recent,Downtown,20-30,Riverside,< 5,$$$$,California,Full Service Restaurant,92514,1460000
+Recent,Downtown,100+,Riverside,5-7,$,California,Full Service Restaurant,92516,1170000
+Recent,Downtown,15-20,Riverside,5-7,$,California,Full Service Restaurant,92517,1730000
+Developed,Downtown,20-30,Riverside,< 5,$$$$,California,Full Service Restaurant,92518,1480000
+Developed,Suburbs,No seat,Riverside,Salad bar only,$$$$,California,Cafeteria,92519,1460000
+Developed,Downtown,10-15,Riverside,15+,$$$,California,Full Service Restaurant,92522,1460000
+Well-Known,Downtown,<10,Riverside,5-7,$$,California,Cafeteria,92551,1360000
+Developed,Downtown,10-15,Riverside,Salad & Sandwich only,$$$,California,Cafeteria,92553,1330000
+Recent,Suburbs,<10,Riverside,7-10,$,California,Banquet,92557,990000
+Recent,Suburbs,50-70,Riverside,10-15,$$,California,Cafeteria,92571,1310000
+Recent,Suburbs,50-70,Riverside,Salad & Sandwich only,$$,California,Banquet,92599,1150000
+Well-Known,Suburbs,<10,Ventura,5-7,$$$$,California,Banquet,93003,1230000
+Recent,Downtown,<10,Ventura,< 5,$,California,Cafeteria,93004,1170000
+Recent,Suburbs,90-100,Ventura,10-15,$$$,California,Cafeteria,93005,1580000
+Well-Known,Downtown,90-100,Ventura,15+,$$,California,Full Service Restaurant,93006,2130000
+Well-Known,Suburbs,15-20,Ventura,Salad bar only,$$,California,Full Service Restaurant,93007,1780000
+Well-Known,Downtown,100+,Ventura,< 5,$$$$,California,Cafeteria,93009,1520000
+Developed,Suburbs,No seat,Ventura,< 5,$$$$$,California,Cafeteria,93010,680000
+Developed,Suburbs,90-100,Ventura,< 5,$$$,California,Full Service Restaurant,93011,1030000
+Developed,Suburbs,30-50,Ventura,15+,$$$,California,Full Service Restaurant,93030,1680000
+Well-Known,Downtown,10-15,Ventura,< 5,$,California,Banquet,93031,880000
+Well-Known,Suburbs,<10,Ventura,10-15,$$$,California,Cafeteria,93032,1250000
+Developed,Downtown,<10,Ventura,10-15,$,California,Cafeteria,93033,470000
+Recent,Suburbs,90-100,Ventura,15+,$$$$,California,Full Service Restaurant,93034,1290000
+Developed,Downtown,50-70,Ventura,Salad & Sandwich only,$,California,Banquet,93035,670000
+Developed,Downtown,90-100,Ventura,10-15,$$,California,Banquet,93036,1710000
+Recent,Downtown,30-50,Ventura,10-15,$$$,California,Cafeteria,93043,1250000
+Well-Known,Suburbs,100+,Ventura,< 5,$$$$$,California,Banquet,93044,1400000
+Developed,Suburbs,90-100,Merced,10-15,$,California,Cafeteria,93610,1580000
+Developed,Downtown,15-20,Fresno,15+,$$$$,California,Cafeteria,93612,930000
+Recent,Downtown,15-20,Merced,10-15,$,California,Cafeteria,93620,1270000
+Recent,Suburbs,<10,Fresno,15+,$$$,California,Full Service Restaurant,93703,950000
+Developed,Suburbs,20-30,Fresno,5-7,$,California,Cafeteria,93710,1650000
+Developed,Downtown,30-50,Fresno,15+,$,California,Full Service Restaurant,93724,1890000
+Developed,Suburbs,100+,Fresno,Salad & Sandwich only,$$$$,California,Banquet,93726,930000
+Well-Known,Suburbs,50-70,Fresno,< 5,$$$$,California,Banquet,93727,1390000
+Developed,Suburbs,10-15,Fresno,Salad & Sandwich only,$$,California,Cafeteria,93728,1130000
+Well-Known,Suburbs,70-90,Fresno,15+,$$,California,Cafeteria,93740,1270000
+Well-Known,Downtown,<10,Fresno,Salad & Sandwich only,$$,California,Full Service Restaurant,93741,1250000
+Recent,Downtown,30-50,Fresno,15+,$$,California,Full Service Restaurant,93750,1490000
+Recent,Downtown,<10,Fresno,Salad & Sandwich only,$$$$,California,Banquet,93755,1440000
+Developed,Suburbs,70-90,Fresno,15+,$,California,Cafeteria,93791,1620000
+Developed,Suburbs,100+,Monterey,< 5,$,California,Full Service Restaurant,93905,1250000
+Well-Known,Downtown,15-20,Monterey,10-15,$,California,Cafeteria,93906,620000
+Developed,Suburbs,30-50,Monterey,15+,$$$$,California,Cafeteria,93908,1750000
+Developed,Downtown,70-90,Monterey,10-15,$$$$,California,Full Service Restaurant,93915,2410000
+Well-Known,Downtown,50-70,Monterey,Salad bar only,$$$,California,Banquet,93921,1340000
+Developed,Suburbs,90-100,Monterey,10-15,$$$$,California,Cafeteria,93922,1560000
+Developed,Suburbs,50-70,Monterey,< 5,$$$,California,Full Service Restaurant,93933,1370000
+Developed,Suburbs,10-15,Monterey,5-7,$$$$$,California,Banquet,93940,1190000
+Recent,Downtown,No seat,Monterey,15+,$$$,California,Banquet,93943,1270000
+Recent,Downtown,No seat,Monterey,7-10,$$$$$,California,Cafeteria,93944,990000
+Well-Known,Downtown,<10,Monterey,7-10,$$,California,Cafeteria,93950,980000
+Well-Known,Suburbs,30-50,Monterey,< 5,$$$$$,California,Full Service Restaurant,93953,2040000
+Well-Known,Downtown,50-70,Monterey,Salad bar only,$$,California,Full Service Restaurant,93955,910000
+Recent,Downtown,<10,Monterey,10-15,$$$$$,California,Cafeteria,93962,1300000
+Developed,Suburbs,No seat,San Francisco,Salad & Sandwich only,$$,California,Full Service Restaurant,94107,1660000
+Recent,Downtown,10-15,San Francisco,Salad bar only,$$,California,Banquet,94108,630000
+Recent,Downtown,10-15,San Francisco,5-7,$$$$$,California,Full Service Restaurant,94109,1860000
+Recent,Downtown,20-30,San Francisco,15+,$$$,California,Cafeteria,94110,1440000
+Developed,Suburbs,50-70,San Francisco,< 5,$$$$,California,Banquet,94111,1370000
+Recent,Suburbs,30-50,San Francisco,Salad bar only,$$,California,Banquet,94112,950000
+Recent,Downtown,<10,San Francisco,7-10,$$$,California,Banquet,94114,1400000
+Recent,Suburbs,100+,San Francisco,Salad bar only,$,California,Full Service Restaurant,94115,1040000
+Well-Known,Suburbs,90-100,San Francisco,Salad bar only,$,California,Cafeteria,94116,950000
+Well-Known,Suburbs,30-50,San Francisco,< 5,$$$$$,California,Full Service Restaurant,94117,1380000
+Recent,Downtown,<10,San Francisco,5-7,$$$$,California,Cafeteria,94118,1080000
+Developed,Downtown,<10,San Francisco,7-10,$$$,California,Full Service Restaurant,94119,1900000
+Well-Known,Downtown,50-70,San Francisco,Salad & Sandwich only,$$,California,Full Service Restaurant,94122,1050000
+Recent,Downtown,20-30,San Francisco,10-15,$$$,California,Banquet,94123,1650000
+Recent,Suburbs,15-20,San Francisco,15+,$$$$,California,Banquet,94124,1600000
+Developed,Suburbs,30-50,San Francisco,15+,$$$$$,California,Banquet,94127,1910000
+Developed,Downtown,No seat,San Francisco,< 5,$$$$$,California,Banquet,94131,1090000
+Well-Known,Suburbs,50-70,San Francisco,7-10,$$$,California,Cafeteria,94133,1320000
+Developed,Downtown,20-30,San Francisco,10-15,$,California,Banquet,94134,1130000
+Well-Known,Suburbs,No seat,San Francisco,Salad & Sandwich only,$,California,Cafeteria,94142,860000
+Well-Known,Downtown,15-20,San Francisco,Salad bar only,$,California,Banquet,94143,530000
+Recent,Suburbs,No seat,San Francisco,5-7,$$$$,California,Full Service Restaurant,94172,1650000
+Recent,Downtown,70-90,San Francisco,Salad & Sandwich only,$$$$,California,Cafeteria,94188,920000
+Well-Known,Downtown,50-70,Sacramento,Salad & Sandwich only,$,California,Cafeteria,94235,530000
+Well-Known,Suburbs,50-70,Sacramento,Salad & Sandwich only,$$$$$,California,Banquet,94278,1520000
+Recent,Downtown,No seat,Alameda,10-15,$$$$,California,Banquet,94501,1170000
+Developed,Suburbs,10-15,Contra Costa,15+,$,California,Banquet,94507,1560000
+Well-Known,Suburbs,No seat,Contra Costa,7-10,$$,California,Full Service Restaurant,94518,690000
+Recent,Downtown,<10,Contra Costa,7-10,$$$$,California,Cafeteria,94519,1200000
+Recent,Suburbs,10-15,Contra Costa,10-15,$$$$,California,Full Service Restaurant,94520,850000
+Developed,Downtown,15-20,Contra Costa,15+,$$$,California,Cafeteria,94523,1660000
+Developed,Downtown,100+,Contra Costa,Salad bar only,$,California,Banquet,94524,920000
+Well-Known,Downtown,90-100,Contra Costa,< 5,$$,California,Banquet,94525,1600000
+Well-Known,Suburbs,70-90,Contra Costa,7-10,$$$$$,California,Cafeteria,94527,1400000
+Developed,Downtown,<10,Contra Costa,7-10,$,California,Cafeteria,94547,1150000
+Recent,Downtown,<10,Contra Costa,< 5,$$$,California,Cafeteria,94549,1020000
+Recent,Suburbs,100+,Contra Costa,Salad bar only,$$$$,California,Cafeteria,94564,530000
+Recent,Suburbs,20-30,Contra Costa,Salad bar only,$$,California,Full Service Restaurant,94569,1240000
+Recent,Suburbs,<10,Contra Costa,5-7,$,California,Full Service Restaurant,94572,1790000
+Well-Known,Suburbs,70-90,Contra Costa,Salad bar only,$$$$$,California,Banquet,94595,1710000
+Well-Known,Suburbs,30-50,Contra Costa,10-15,$$$$,California,Banquet,94596,2420000
+Developed,Downtown,90-100,Contra Costa,< 5,$$$,California,Banquet,94597,1110000
+Well-Known,Downtown,20-30,Contra Costa,Salad bar only,$,California,Banquet,94598,1010000
+Well-Known,Downtown,10-15,Alameda,5-7,$$$$$,California,Cafeteria,94601,1770000
+Developed,Downtown,20-30,Alameda,Salad bar only,$,California,Full Service Restaurant,94602,1420000
+Developed,Downtown,50-70,Alameda,5-7,$$$$,California,Banquet,94604,1560000
+Developed,Downtown,100+,Alameda,Salad & Sandwich only,$$,California,Cafeteria,94609,1040000
+Developed,Suburbs,30-50,Alameda,7-10,$$$,California,Banquet,94610,1070000
+Developed,Suburbs,20-30,Alameda,< 5,$$,California,Full Service Restaurant,94613,1960000
+Recent,Downtown,10-15,Alameda,< 5,$$$,California,Full Service Restaurant,94617,1400000
+Developed,Suburbs,No seat,Alameda,Salad bar only,$,California,Cafeteria,94618,650000
+Developed,Downtown,70-90,Alameda,Salad & Sandwich only,$,California,Cafeteria,94620,800000
+Well-Known,Suburbs,100+,Alameda,15+,$$$$$,California,Full Service Restaurant,94624,1990000
+Recent,Suburbs,15-20,Alameda,5-7,$$$,California,Cafeteria,94662,1140000
+Recent,Downtown,10-15,Alameda,15+,$,California,Banquet,94703,1670000
+Well-Known,Downtown,100+,Alameda,7-10,$$$,California,Cafeteria,94709,1640000
+Developed,Suburbs,50-70,Alameda,7-10,$$$$,California,Banquet,94710,1010000
+Recent,Suburbs,70-90,Santa Clara,Salad & Sandwich only,$$$$$,California,Full Service Restaurant,95011,1140000
+Recent,Downtown,70-90,Santa Clara,Salad & Sandwich only,$$$$$,California,Banquet,95050,1220000
+Well-Known,Downtown,100+,Santa Clara,15+,$$,California,Banquet,95053,1880000
+Well-Known,Suburbs,20-30,Santa Clara,7-10,$$$$$,California,Cafeteria,95055,1500000
+Well-Known,Suburbs,90-100,Santa Clara,< 5,$$$,California,Full Service Restaurant,95056,1500000
+Developed,Downtown,15-20,Santa Clara,5-7,$$$$$,California,Banquet,95101,1260000
+Developed,Downtown,No seat,Santa Clara,15+,$$$,California,Full Service Restaurant,95110,1080000
+Recent,Downtown,70-90,Santa Clara,15+,$,California,Full Service Restaurant,95116,2000000
+Recent,Suburbs,No seat,Santa Clara,< 5,$$$$$,California,Banquet,95117,1350000
+Well-Known,Suburbs,70-90,Santa Clara,Salad bar only,$$$$$,California,Full Service Restaurant,95118,1840000
+Developed,Downtown,No seat,Santa Clara,Salad bar only,$$,California,Cafeteria,95122,970000
+Developed,Suburbs,100+,Santa Clara,7-10,$$$,California,Banquet,95124,1130000
+Well-Known,Downtown,20-30,Santa Clara,10-15,$$$,California,Cafeteria,95126,1290000
+Recent,Suburbs,15-20,Santa Clara,Salad bar only,$,California,Full Service Restaurant,95130,1530000
+Recent,Downtown,10-15,Santa Clara,5-7,$$$$$,California,Full Service Restaurant,95133,1610000
+Developed,Downtown,90-100,Santa Clara,Salad bar only,$$$$$,California,Full Service Restaurant,95136,1040000
+Developed,Downtown,<10,Santa Clara,Salad & Sandwich only,$$,California,Full Service Restaurant,95150,980000
+Developed,Suburbs,20-30,Santa Clara,5-7,$$$$,California,Cafeteria,95154,1510000
+Recent,Downtown,10-15,Santa Clara,10-15,$$,California,Cafeteria,95155,1480000
+Developed,Downtown,30-50,Santa Clara,15+,$$$$$,California,Cafeteria,95159,1590000
+Well-Known,Suburbs,10-15,Santa Clara,7-10,$$$$$,California,Full Service Restaurant,95161,2300000
+Developed,Downtown,100+,Santa Clara,10-15,$,California,Banquet,95170,1090000
+Well-Known,Suburbs,90-100,Santa Clara,15+,$$$,California,Cafeteria,95172,1040000
+Well-Known,Suburbs,100+,Santa Clara,Salad bar only,$$,California,Full Service Restaurant,95190,1620000
+Well-Known,Downtown,100+,Santa Clara,Salad & Sandwich only,$$,California,Full Service Restaurant,95194,950000
+Developed,Downtown,10-15,San Joaquin,Salad bar only,$,California,Banquet,95202,1180000
+Recent,Suburbs,10-15,San Joaquin,Salad & Sandwich only,$,California,Full Service Restaurant,95203,1240000
+Developed,Suburbs,100+,San Joaquin,15+,$,California,Full Service Restaurant,95204,2100000
+Recent,Suburbs,15-20,San Joaquin,Salad bar only,$$$$$,California,Banquet,95205,760000
+Developed,Suburbs,30-50,San Joaquin,10-15,$,California,Banquet,95207,1450000
+Recent,Downtown,<10,San Joaquin,Salad bar only,$$$$$,California,Cafeteria,95209,1590000
+Recent,Suburbs,70-90,San Joaquin,10-15,$$$$$,California,Cafeteria,95212,1540000
+Recent,Downtown,100+,San Joaquin,15+,$,California,Cafeteria,95214,1490000
+Well-Known,Downtown,70-90,San Joaquin,7-10,$$,California,Banquet,95215,1090000
+Developed,Suburbs,10-15,San Joaquin,7-10,$,California,Banquet,95231,1290000
+Well-Known,Downtown,No seat,San Joaquin,Salad & Sandwich only,$$$,California,Cafeteria,95240,1510000
+Well-Known,Suburbs,15-20,San Joaquin,10-15,$,California,Full Service Restaurant,95241,1380000
+Recent,Downtown,<10,San Joaquin,Salad bar only,$$$$$,California,Cafeteria,95253,1680000
+Developed,Suburbs,20-30,Merced,15+,$$,California,Cafeteria,95301,1690000
+Developed,Downtown,90-100,Merced,5-7,$$$,California,Cafeteria,95303,1510000
+Well-Known,Suburbs,70-90,Merced,Salad & Sandwich only,$,California,Banquet,95312,700000
+Recent,Suburbs,70-90,Merced,7-10,$$$$$,California,Banquet,95315,1060000
+Well-Known,Downtown,30-50,Merced,< 5,$,California,Cafeteria,95317,1000000
+Recent,Downtown,70-90,Merced,5-7,$$,California,Banquet,95333,1040000
+Well-Known,Suburbs,<10,Merced,Salad bar only,$$$,California,Full Service Restaurant,95334,1740000
+Developed,Suburbs,30-50,Merced,5-7,$$$,California,Banquet,95340,1260000
+Developed,Downtown,90-100,Merced,Salad bar only,$,California,Banquet,95341,1200000
+Recent,Suburbs,20-30,Merced,5-7,$$$$$,California,Cafeteria,95343,1500000
+Recent,Downtown,20-30,Merced,Salad bar only,$$$$,California,Full Service Restaurant,95344,990000
+Well-Known,Suburbs,20-30,Merced,Salad & Sandwich only,$$,California,Cafeteria,95348,690000
+Well-Known,Suburbs,No seat,Merced,10-15,$$$,California,Full Service Restaurant,95365,1540000
+Recent,Suburbs,No seat,Merced,Salad & Sandwich only,$,California,Banquet,95388,910000
+Well-Known,Suburbs,70-90,Sacramento,7-10,$,California,Cafeteria,95811,1160000
+Well-Known,Downtown,<10,Sacramento,10-15,$$$,California,Full Service Restaurant,95815,1430000
+Developed,Suburbs,<10,Sacramento,15+,$$$$$,California,Cafeteria,95817,780000
+Developed,Downtown,50-70,Sacramento,5-7,$,California,Full Service Restaurant,95818,1160000
+Developed,Suburbs,30-50,Sacramento,5-7,$$$$$,California,Full Service Restaurant,95819,1910000
+Well-Known,Downtown,100+,Sacramento,7-10,$$,California,Full Service Restaurant,95820,1800000
+Recent,Downtown,100+,Sacramento,Salad bar only,$$$$,California,Cafeteria,95821,620000
+Developed,Suburbs,20-30,Sacramento,< 5,$,California,Full Service Restaurant,95824,1200000
+Recent,Downtown,50-70,Sacramento,7-10,$$$$,California,Banquet,95826,1600000
+Well-Known,Suburbs,100+,Sacramento,< 5,$$$$$,California,Cafeteria,95833,1610000
+Recent,Suburbs,90-100,Sacramento,Salad bar only,$,California,Banquet,95838,1310000
+Developed,Downtown,20-30,Sacramento,15+,$,California,Full Service Restaurant,95864,1570000
+Recent,Suburbs,10-15,Sacramento,7-10,$$$$,California,Cafeteria,95865,1040000
