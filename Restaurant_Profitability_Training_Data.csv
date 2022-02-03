@@ -1,0 +1,1045 @@
+ID,Age,Type,Price Range,Capacity,Area,Number of Menu Items,Profit
+0,Developed,Cafeteria,$$,90-100,Downtown,Salad & Sandwich only,40147
+1,Developed,Cafeteria,$$$,<10,Downtown,7-10,68297
+2,Developed,Banquet,$$$$$,30-50,Suburbs,Salad & Sandwich only,68691
+3,Well-Known,Full Service Restaurant,$,No seat,Downtown,10-15,57174
+4,Recent,Banquet,$$,100+,Downtown,7-10,81022
+5,Developed,Banquet,$$$$,90-100,Suburbs,10-15,100153
+6,Recent,Full Service Restaurant,$,15-20,Suburbs,10-15,90486
+7,Well-Known,Banquet,$$$$,20-30,Suburbs,Salad bar only,102545
+8,Well-Known,Banquet,$$$$$,30-50,Downtown,5-7,136015
+9,Developed,Cafeteria,$$$$$,70-90,Downtown,Salad & Sandwich only,76796
+10,Well-Known,Banquet,$$$$$,20-30,Downtown,10-15,144938
+11,Recent,Full Service Restaurant,$$$,10-15,Downtown,10-15,102355
+12,Developed,Cafeteria,$,30-50,Downtown,Salad bar only,34622
+13,Recent,Cafeteria,$$$$$,90-100,Downtown,15+,114059
+14,Well-Known,Full Service Restaurant,$$$$$,No seat,Suburbs,Salad & Sandwich only,117751
+15,Recent,Full Service Restaurant,$$$$$,90-100,Suburbs,10-15,98261
+16,Well-Known,Full Service Restaurant,$$$$,30-50,Suburbs,15+,159635
+17,Developed,Banquet,$,30-50,Downtown,5-7,74690
+18,Developed,Cafeteria,$$$,90-100,Suburbs,Salad & Sandwich only,57925
+19,Well-Known,Banquet,$,30-50,Suburbs,Salad bar only,43725
+20,Well-Known,Banquet,$$$$$,100+,Suburbs,< 5,104505
+21,Well-Known,Full Service Restaurant,$$$,90-100,Downtown,10-15,128494
+22,Developed,Full Service Restaurant,$,70-90,Suburbs,10-15,118351
+23,Recent,Cafeteria,$$$$,70-90,Suburbs,Salad & Sandwich only,31358
+24,Well-Known,Cafeteria,$$$$$,20-30,Suburbs,Salad & Sandwich only,97832
+25,Well-Known,Full Service Restaurant,$$$,No seat,Downtown,Salad & Sandwich only,98659
+26,Recent,Full Service Restaurant,$$$$,30-50,Suburbs,15+,114307
+27,Well-Known,Full Service Restaurant,$$$$,90-100,Downtown,Salad & Sandwich only,109134
+28,Recent,Cafeteria,$,100+,Downtown,Salad & Sandwich only,42062
+29,Well-Known,Cafeteria,$$$$$,50-70,Suburbs,10-15,132804
+30,Well-Known,Cafeteria,$$$$,70-90,Suburbs,Salad & Sandwich only,79600
+31,Well-Known,Banquet,$$$$,10-15,Suburbs,5-7,122898
+32,Well-Known,Banquet,$$,70-90,Suburbs,< 5,65257
+33,Well-Known,Banquet,$$,70-90,Downtown,15+,126023
+34,Developed,Cafeteria,$$,70-90,Suburbs,10-15,99996
+35,Well-Known,Full Service Restaurant,$,30-50,Suburbs,5-7,94902
+36,Well-Known,Cafeteria,$$$,100+,Suburbs,5-7,70566
+37,Well-Known,Banquet,$$$,10-15,Downtown,< 5,91121
+38,Developed,Cafeteria,$$$,100+,Suburbs,15+,91873
+39,Well-Known,Banquet,$$$$$,No seat,Suburbs,10-15,102530
+40,Developed,Full Service Restaurant,$,20-30,Downtown,7-10,102853
+41,Well-Known,Cafeteria,$$,30-50,Suburbs,10-15,86591
+42,Well-Known,Banquet,$$$$$,No seat,Downtown,Salad & Sandwich only,110197
+43,Recent,Banquet,$$,70-90,Suburbs,15+,126043
+44,Developed,Banquet,$$$,30-50,Suburbs,5-7,83270
+45,Recent,Full Service Restaurant,$$$$$,No seat,Suburbs,< 5,68216
+46,Developed,Full Service Restaurant,$$$$$,50-70,Suburbs,5-7,105404
+47,Developed,Cafeteria,$$,10-15,Downtown,5-7,73603
+48,Well-Known,Cafeteria,$$$$,20-30,Suburbs,15+,107457
+49,Well-Known,Cafeteria,$$$$,10-15,Downtown,Salad bar only,79107
+50,Developed,Full Service Restaurant,$$$$,10-15,Downtown,15+,124314
+51,Recent,Full Service Restaurant,$$$$$,10-15,Downtown,Salad bar only,100166
+52,Recent,Cafeteria,$,50-70,Downtown,7-10,61336
+53,Developed,Banquet,$$$$,No seat,Suburbs,10-15,57562
+54,Developed,Banquet,$,No seat,Suburbs,7-10,43329
+55,Well-Known,Full Service Restaurant,$,<10,Downtown,10-15,63782
+56,Developed,Cafeteria,$,20-30,Suburbs,Salad bar only,42527
+57,Developed,Banquet,$$$$,15-20,Downtown,7-10,122970
+58,Developed,Cafeteria,$$$$,70-90,Downtown,Salad & Sandwich only,72124
+59,Well-Known,Full Service Restaurant,$$$$,15-20,Downtown,< 5,124785
+60,Well-Known,Banquet,$,70-90,Downtown,Salad & Sandwich only,44558
+61,Well-Known,Full Service Restaurant,$$$$$,30-50,Downtown,5-7,155963
+62,Recent,Banquet,$$$$$,10-15,Downtown,Salad bar only,82483
+63,Well-Known,Full Service Restaurant,$$,20-30,Downtown,7-10,109347
+64,Recent,Banquet,$$$$$,15-20,Suburbs,15+,78352
+65,Developed,Banquet,$,90-100,Downtown,7-10,76019
+66,Developed,Cafeteria,$$$$$,90-100,Suburbs,15+,91239
+67,Developed,Cafeteria,$,30-50,Suburbs,5-7,65475
+68,Developed,Banquet,$$$,100+,Suburbs,< 5,78472
+69,Recent,Full Service Restaurant,$$$,50-70,Suburbs,7-10,91634
+70,Recent,Full Service Restaurant,$$,No seat,Downtown,10-15,73284
+71,Developed,Full Service Restaurant,$$$$$,No seat,Downtown,5-7,95693
+72,Developed,Full Service Restaurant,$,<10,Suburbs,10-15,67573
+73,Developed,Full Service Restaurant,$$$$,No seat,Suburbs,5-7,86437
+74,Developed,Full Service Restaurant,$$$$,70-90,Downtown,10-15,168367
+75,Recent,Cafeteria,$$,<10,Downtown,7-10,50534
+76,Recent,Banquet,$$$$,10-15,Downtown,5-7,102720
+77,Recent,Cafeteria,$$$,10-15,Suburbs,7-10,57075
+78,Recent,Cafeteria,$$,No seat,Downtown,5-7,50413
+79,Recent,Full Service Restaurant,$$$$,<10,Downtown,Salad bar only,99913
+80,Developed,Cafeteria,$,<10,Suburbs,5-7,35022
+81,Developed,Banquet,$$$$,<10,Suburbs,15+,69833
+82,Recent,Full Service Restaurant,$$$$$,10-15,Suburbs,5-7,96328
+83,Well-Known,Banquet,$$$$,No seat,Downtown,5-7,93405
+84,Developed,Banquet,$,15-20,Downtown,Salad bar only,39831
+85,Developed,Cafeteria,$$,15-20,Suburbs,5-7,95364
+86,Developed,Banquet,$,10-15,Downtown,Salad bar only,47095
+87,Recent,Full Service Restaurant,$$$$$,100+,Downtown,7-10,103000
+88,Recent,Banquet,$$,20-30,Suburbs,Salad & Sandwich only,59221
+89,Developed,Full Service Restaurant,$$$$,15-20,Suburbs,< 5,106146
+90,Recent,Cafeteria,$$$,100+,Suburbs,5-7,46742
+91,Well-Known,Banquet,$$$$$,70-90,Suburbs,5-7,122837
+92,Recent,Full Service Restaurant,$$$$,10-15,Suburbs,Salad & Sandwich only,76781
+93,Developed,Cafeteria,$$,No seat,Suburbs,Salad & Sandwich only,60529
+94,Recent,Banquet,$$$,No seat,Suburbs,Salad bar only,55485
+95,Well-Known,Cafeteria,$$,70-90,Suburbs,10-15,98425
+96,Recent,Banquet,$$$$,20-30,Downtown,7-10,117929
+97,Recent,Banquet,$$$,10-15,Suburbs,5-7,79745
+98,Well-Known,Banquet,$$$$,15-20,Downtown,10-15,112438
+99,Developed,Cafeteria,$$$$$,50-70,Suburbs,5-7,73545
+100,Well-Known,Full Service Restaurant,$$,15-20,Suburbs,Salad & Sandwich only,79310
+101,Developed,Banquet,$$$,No seat,Downtown,15+,78438
+102,Developed,Cafeteria,$$$$,100+,Suburbs,10-15,81489
+103,Well-Known,Banquet,$,30-50,Downtown,Salad bar only,55325
+104,Well-Known,Banquet,$$$$$,30-50,Downtown,7-10,138924
+105,Recent,Cafeteria,$$$$$,30-50,Suburbs,7-10,60159
+106,Recent,Cafeteria,$$,<10,Suburbs,Salad bar only,41106
+107,Well-Known,Cafeteria,$$,15-20,Suburbs,5-7,84607
+108,Developed,Banquet,$$,100+,Downtown,15+,108610
+109,Developed,Cafeteria,$$,50-70,Suburbs,Salad bar only,54894
+110,Recent,Full Service Restaurant,$$$$,20-30,Downtown,< 5,125696
+111,Developed,Banquet,$$$,90-100,Downtown,5-7,100286
+112,Developed,Full Service Restaurant,$,No seat,Downtown,15+,54462
+113,Developed,Cafeteria,$$$$,100+,Suburbs,7-10,64535
+114,Recent,Banquet,$$$,20-30,Downtown,15+,100666
+115,Recent,Full Service Restaurant,$,100+,Downtown,5-7,84054
+116,Developed,Cafeteria,$$$,15-20,Suburbs,5-7,92263
+117,Well-Known,Banquet,$$$$,70-90,Downtown,Salad bar only,84725
+118,Recent,Full Service Restaurant,$,15-20,Downtown,5-7,98828
+119,Well-Known,Cafeteria,$$$,30-50,Downtown,< 5,65861
+120,Recent,Full Service Restaurant,$$$,No seat,Downtown,5-7,98393
+121,Recent,Full Service Restaurant,$$$$,70-90,Suburbs,Salad & Sandwich only,68456
+122,Developed,Full Service Restaurant,$$$$,20-30,Downtown,< 5,134124
+123,Developed,Full Service Restaurant,$,100+,Suburbs,15+,113529
+124,Developed,Cafeteria,$$$$,No seat,Suburbs,Salad bar only,61403
+125,Developed,Banquet,$$$$$,20-30,Suburbs,5-7,103466
+126,Recent,Cafeteria,$$$$$,70-90,Suburbs,7-10,56817
+127,Recent,Cafeteria,$$,50-70,Downtown,15+,120014
+128,Well-Known,Banquet,$$$$$,30-50,Downtown,15+,173437
+129,Recent,Cafeteria,$,No seat,Downtown,Salad bar only,47761
+130,Developed,Cafeteria,$,10-15,Downtown,10-15,46241
+131,Developed,Banquet,$,100+,Suburbs,Salad bar only,45045
+132,Developed,Banquet,$$,<10,Suburbs,< 5,76239
+133,Developed,Full Service Restaurant,$$$,10-15,Downtown,15+,108446
+134,Developed,Banquet,$,100+,Downtown,7-10,60261
+135,Well-Known,Cafeteria,$$,<10,Downtown,5-7,54274
+136,Recent,Cafeteria,$$,100+,Suburbs,Salad bar only,46536
+137,Developed,Full Service Restaurant,$$$,No seat,Downtown,< 5,101044
+138,Developed,Cafeteria,$$$,10-15,Downtown,Salad & Sandwich only,75093
+139,Well-Known,Cafeteria,$$,100+,Downtown,Salad bar only,46271
+140,Recent,Banquet,$,<10,Suburbs,7-10,55572
+141,Well-Known,Full Service Restaurant,$$$$,No seat,Suburbs,7-10,111932
+142,Recent,Cafeteria,$$,50-70,Suburbs,10-15,91006
+143,Recent,Banquet,$$,50-70,Suburbs,Salad & Sandwich only,52735
+144,Developed,Full Service Restaurant,$,100+,Downtown,10-15,106285
+145,Well-Known,Full Service Restaurant,$$$$$,30-50,Suburbs,< 5,126430
+146,Developed,Full Service Restaurant,$$$$$,20-30,Downtown,Salad bar only,100509
+147,Well-Known,Banquet,$$$$,<10,Suburbs,5-7,102037
+148,Developed,Banquet,$$$,15-20,Downtown,15+,96920
+149,Recent,Cafeteria,$,<10,Downtown,< 5,31078
+150,Developed,Cafeteria,$$$$,<10,Suburbs,Salad bar only,64606
+151,Recent,Cafeteria,$$$,90-100,Suburbs,10-15,73493
+152,Developed,Full Service Restaurant,$,30-50,Suburbs,Salad & Sandwich only,59944
+153,Developed,Banquet,$$$$$,70-90,Suburbs,Salad & Sandwich only,61858
+154,Developed,Cafeteria,$$$$$,50-70,Suburbs,< 5,56267
+155,Well-Known,Cafeteria,$,15-20,Downtown,10-15,43007
+156,Developed,Full Service Restaurant,$$$$$,15-20,Downtown,5-7,141982
+157,Well-Known,Full Service Restaurant,$$,90-100,Downtown,15+,114429
+158,Well-Known,Full Service Restaurant,$$,15-20,Suburbs,Salad bar only,83497
+159,Recent,Cafeteria,$$$,90-100,Downtown,7-10,81351
+160,Developed,Full Service Restaurant,$$$$$,<10,Downtown,15+,112815
+161,Well-Known,Cafeteria,$$$$,100+,Downtown,< 5,72358
+162,Developed,Banquet,$$$$$,15-20,Downtown,5-7,130798
+163,Recent,Banquet,$$$$$,100+,Suburbs,Salad & Sandwich only,46021
+164,Well-Known,Banquet,$$$,No seat,Suburbs,5-7,80405
+165,Developed,Cafeteria,$$$$$,30-50,Downtown,10-15,124086
+166,Developed,Cafeteria,$$$$$,No seat,Suburbs,< 5,50388
+167,Recent,Full Service Restaurant,$$$$,15-20,Downtown,7-10,130127
+168,Developed,Full Service Restaurant,$$$,90-100,Suburbs,< 5,89908
+169,Developed,Cafeteria,$,10-15,Downtown,7-10,58872
+170,Well-Known,Full Service Restaurant,$,15-20,Downtown,10-15,94779
+171,Developed,Full Service Restaurant,$$$,30-50,Suburbs,15+,140651
+172,Well-Known,Banquet,$$,10-15,Suburbs,5-7,86398
+173,Well-Known,Banquet,$,10-15,Downtown,< 5,68476
+174,Well-Known,Banquet,$,10-15,Suburbs,Salad bar only,54422
+175,Well-Known,Cafeteria,$$$,<10,Suburbs,10-15,68978
+176,Well-Known,Cafeteria,$$$$,30-50,Downtown,Salad bar only,67768
+177,Developed,Cafeteria,$,<10,Downtown,5-7,42739
+178,Well-Known,Full Service Restaurant,$$$$,50-70,Suburbs,Salad bar only,107676
+179,Developed,Cafeteria,$,<10,Downtown,10-15,38784
+180,Developed,Cafeteria,$$$$,90-100,Suburbs,5-7,61103
+181,Well-Known,Banquet,$$,10-15,Downtown,Salad bar only,63726
+182,Well-Known,Full Service Restaurant,$,10-15,Downtown,5-7,90582
+183,Well-Known,Banquet,$,20-30,Suburbs,10-15,77264
+184,Recent,Full Service Restaurant,$$$$,90-100,Suburbs,15+,116786
+185,Well-Known,Full Service Restaurant,$$$$,No seat,Downtown,15+,93815
+186,Well-Known,Full Service Restaurant,$,100+,Downtown,Salad & Sandwich only,73371
+187,Well-Known,Cafeteria,$$$$$,10-15,Downtown,< 5,121314
+188,Developed,Banquet,$,50-70,Downtown,Salad & Sandwich only,59342
+189,Recent,Banquet,$$$,20-30,Downtown,15+,98876
+190,Developed,Banquet,$$,90-100,Downtown,10-15,89989
+191,Developed,Cafeteria,$,<10,Downtown,5-7,32786
+192,Recent,Cafeteria,$$$,30-50,Downtown,10-15,113349
+193,Well-Known,Banquet,$$$$$,100+,Suburbs,< 5,114634
+194,Developed,Cafeteria,$,90-100,Suburbs,10-15,71735
+195,Recent,Full Service Restaurant,$$$$$,<10,Suburbs,10-15,62140
+196,Recent,Full Service Restaurant,$,No seat,Downtown,Salad & Sandwich only,74400
+197,Recent,Full Service Restaurant,$$$,100+,Downtown,15+,132843
+198,Developed,Cafeteria,$$$$,15-20,Downtown,15+,91330
+199,Developed,Full Service Restaurant,$$$$,No seat,Downtown,Salad bar only,109370
+200,Recent,Cafeteria,$,15-20,Downtown,10-15,59166
+201,Developed,Cafeteria,$$$,15-20,Downtown,Salad bar only,72954
+202,Recent,Full Service Restaurant,$,100+,Downtown,7-10,88296
+203,Developed,Banquet,$$$$$,10-15,Downtown,15+,109541
+204,Well-Known,Full Service Restaurant,$$,No seat,Downtown,10-15,78003
+205,Developed,Banquet,$,No seat,Downtown,10-15,43571
+206,Well-Known,Banquet,$$$$,30-50,Downtown,Salad & Sandwich only,83793
+207,Recent,Full Service Restaurant,$$$,<10,Downtown,15+,102549
+208,Recent,Banquet,$,15-20,Suburbs,10-15,90190
+209,Well-Known,Banquet,$$,10-15,Downtown,5-7,82812
+210,Well-Known,Cafeteria,$$$$$,<10,Downtown,7-10,102656
+211,Well-Known,Full Service Restaurant,$$$$$,50-70,Downtown,Salad bar only,135469
+212,Developed,Full Service Restaurant,$$$,50-70,Suburbs,5-7,103633
+213,Recent,Full Service Restaurant,$$$,<10,Suburbs,15+,77876
+214,Developed,Cafeteria,$,20-30,Suburbs,5-7,75077
+215,Developed,Banquet,$$$,100+,Suburbs,10-15,112713
+216,Well-Known,Cafeteria,$$,70-90,Downtown,15+,99949
+217,Well-Known,Cafeteria,$,50-70,Suburbs,Salad bar only,23272
+218,Well-Known,Cafeteria,$$,30-50,Downtown,< 5,57356
+219,Developed,Cafeteria,$$,50-70,Downtown,10-15,92340
+220,Well-Known,Banquet,$$,No seat,Suburbs,10-15,51877
+221,Recent,Full Service Restaurant,$$,90-100,Suburbs,Salad & Sandwich only,77805
+222,Well-Known,Cafeteria,$$,15-20,Suburbs,7-10,83425
+223,Developed,Full Service Restaurant,$,30-50,Downtown,15+,124380
+224,Recent,Banquet,$$$,30-50,Suburbs,< 5,66496
+225,Developed,Banquet,$$$$,100+,Suburbs,Salad & Sandwich only,68326
+226,Developed,Cafeteria,$$$$,50-70,Downtown,< 5,91191
+227,Well-Known,Banquet,$$$,No seat,Downtown,7-10,65496
+228,Well-Known,Banquet,$$$,No seat,Downtown,< 5,64153
+229,Well-Known,Banquet,$$$$,50-70,Suburbs,< 5,107850
+230,Well-Known,Cafeteria,$$,10-15,Suburbs,Salad bar only,33828
+231,Recent,Cafeteria,$$$$$,70-90,Suburbs,5-7,63700
+232,Developed,Cafeteria,$$,10-15,Suburbs,Salad & Sandwich only,60403
+233,Developed,Banquet,$$$$$,20-30,Downtown,5-7,122113
+234,Well-Known,Full Service Restaurant,$$$$,20-30,Suburbs,15+,129555
+235,Developed,Cafeteria,$,30-50,Downtown,7-10,70018
+236,Well-Known,Cafeteria,$$,70-90,Suburbs,15+,95307
+237,Recent,Banquet,$$$$,50-70,Downtown,7-10,101826
+238,Well-Known,Full Service Restaurant,$,15-20,Downtown,10-15,85253
+239,Developed,Cafeteria,$$$,70-90,Downtown,5-7,86344
+240,Recent,Cafeteria,$$$$,15-20,Suburbs,5-7,77799
+241,Well-Known,Full Service Restaurant,$$,<10,Downtown,Salad & Sandwich only,92855
+242,Recent,Full Service Restaurant,$,30-50,Suburbs,Salad & Sandwich only,82547
+243,Well-Known,Full Service Restaurant,$$$$$,90-100,Downtown,15+,177926
+244,Recent,Full Service Restaurant,$,10-15,Downtown,Salad bar only,71447
+245,Recent,Banquet,$$$,70-90,Suburbs,Salad & Sandwich only,57807
+246,Recent,Full Service Restaurant,$$,30-50,Downtown,15+,130875
+247,Recent,Banquet,$,90-100,Suburbs,< 5,68456
+248,Developed,Banquet,$$$$$,15-20,Suburbs,7-10,102466
+249,Developed,Cafeteria,$,30-50,Suburbs,< 5,47233
+250,Developed,Full Service Restaurant,$$$$,70-90,Downtown,7-10,127923
+251,Recent,Banquet,$$$$$,90-100,Downtown,< 5,90013
+252,Recent,Banquet,$$$$,<10,Downtown,Salad & Sandwich only,101764
+253,Recent,Banquet,$$$$$,10-15,Suburbs,15+,71233
+254,Developed,Cafeteria,$$$,20-30,Suburbs,< 5,77306
+255,Recent,Full Service Restaurant,$$,15-20,Suburbs,10-15,101252
+256,Recent,Banquet,$$$$$,30-50,Downtown,< 5,82689
+257,Developed,Cafeteria,$,70-90,Suburbs,15+,99594
+258,Well-Known,Full Service Restaurant,$$,10-15,Downtown,15+,76314
+259,Recent,Banquet,$$$$,20-30,Suburbs,10-15,86146
+260,Developed,Full Service Restaurant,$,100+,Suburbs,< 5,75304
+261,Recent,Cafeteria,$$$,10-15,Suburbs,< 5,53170
+262,Recent,Cafeteria,$$,70-90,Downtown,Salad & Sandwich only,45845
+263,Well-Known,Cafeteria,$$$$,10-15,Downtown,10-15,92981
+264,Developed,Full Service Restaurant,$$$,70-90,Suburbs,10-15,130590
+265,Developed,Banquet,$$$$$,15-20,Downtown,7-10,121699
+266,Well-Known,Cafeteria,$,15-20,Downtown,10-15,60584
+267,Developed,Banquet,$,30-50,Downtown,10-15,110780
+268,Recent,Full Service Restaurant,$$$$,100+,Suburbs,< 5,74610
+269,Recent,Cafeteria,$$$,15-20,Suburbs,Salad bar only,37857
+270,Well-Known,Banquet,$$$$,50-70,Suburbs,Salad bar only,88180
+271,Developed,Banquet,$$,90-100,Downtown,< 5,77478
+272,Well-Known,Full Service Restaurant,$$$$,10-15,Suburbs,5-7,132828
+273,Well-Known,Banquet,$$$,<10,Downtown,< 5,65493
+274,Recent,Full Service Restaurant,$$$,30-50,Suburbs,15+,128706
+275,Developed,Full Service Restaurant,$,10-15,Downtown,< 5,97274
+276,Developed,Cafeteria,$$$$,30-50,Suburbs,15+,110467
+277,Developed,Banquet,$$,50-70,Downtown,Salad & Sandwich only,66741
+278,Developed,Full Service Restaurant,$$$$,70-90,Downtown,10-15,154501
+279,Recent,Full Service Restaurant,$,15-20,Downtown,10-15,87011
+280,Recent,Cafeteria,$$$$$,70-90,Suburbs,15+,97412
+281,Well-Known,Full Service Restaurant,$$$,100+,Suburbs,15+,137084
+282,Recent,Banquet,$$,70-90,Downtown,10-15,123913
+283,Recent,Cafeteria,$$$$,100+,Downtown,15+,102446
+284,Developed,Full Service Restaurant,$,90-100,Suburbs,Salad bar only,62337
+285,Well-Known,Cafeteria,$,<10,Suburbs,7-10,35306
+286,Well-Known,Banquet,$$$,50-70,Downtown,Salad bar only,62643
+287,Well-Known,Full Service Restaurant,$$$$$,70-90,Suburbs,Salad bar only,114197
+288,Recent,Cafeteria,$$$$$,<10,Suburbs,15+,31923
+289,Well-Known,Full Service Restaurant,$$$$$,10-15,Downtown,10-15,138412
+290,Developed,Cafeteria,$$$$,90-100,Suburbs,10-15,98134
+291,Well-Known,Cafeteria,$$$,No seat,Downtown,15+,58705
+292,Recent,Full Service Restaurant,$$$,No seat,Downtown,15+,97385
+293,Developed,Full Service Restaurant,$$$,50-70,Suburbs,< 5,98630
+294,Developed,Banquet,$$$$$,10-15,Suburbs,5-7,91198
+295,Recent,Banquet,$$$,No seat,Downtown,15+,83300
+296,Recent,Full Service Restaurant,$$$$$,<10,Suburbs,< 5,78022
+297,Well-Known,Full Service Restaurant,$$$$$,100+,Suburbs,Salad bar only,115725
+298,Developed,Full Service Restaurant,$$$,100+,Downtown,10-15,141582
+299,Recent,Cafeteria,$$$$$,No seat,Downtown,7-10,66290
+300,Well-Known,Cafeteria,$$$$,10-15,Suburbs,7-10,104068
+301,Well-Known,Cafeteria,$$,<10,Downtown,7-10,52627
+302,Recent,Full Service Restaurant,$$$$,<10,Suburbs,7-10,75702
+303,Well-Known,Banquet,$$$,50-70,Suburbs,7-10,108361
+304,Developed,Cafeteria,$$$$,20-30,Suburbs,< 5,73656
+305,Developed,Cafeteria,$$$,90-100,Downtown,5-7,69604
+306,Well-Known,Full Service Restaurant,$$,70-90,Suburbs,10-15,129586
+307,Developed,Banquet,$$$$,<10,Downtown,Salad bar only,97495
+308,Developed,Banquet,$$$,No seat,Downtown,10-15,76195
+309,Well-Known,Full Service Restaurant,$$$$$,30-50,Suburbs,< 5,139145
+310,Developed,Banquet,$$$$$,No seat,Suburbs,Salad & Sandwich only,76204
+311,Recent,Cafeteria,$$,30-50,Suburbs,15+,82005
+312,Well-Known,Full Service Restaurant,$$,50-70,Downtown,Salad bar only,68303
+313,Recent,Full Service Restaurant,$$,30-50,Suburbs,10-15,130910
+314,Developed,Banquet,$$$,15-20,Suburbs,< 5,98470
+315,Recent,Cafeteria,$$$$$,<10,Downtown,10-15,65634
+316,Well-Known,Cafeteria,$$$$,90-100,Suburbs,5-7,84810
+317,Well-Known,Banquet,$$$$$,70-90,Downtown,< 5,126297
+318,Developed,Full Service Restaurant,$$,No seat,Suburbs,Salad & Sandwich only,90707
+319,Recent,Banquet,$$,10-15,Downtown,Salad bar only,61599
+320,Recent,Cafeteria,$$$$$,70-90,Downtown,10-15,108148
+321,Recent,Banquet,$$$,15-20,Downtown,7-10,114235
+322,Well-Known,Cafeteria,$$$$,30-50,Suburbs,7-10,110388
+323,Recent,Full Service Restaurant,$$$$$,10-15,Downtown,5-7,110205
+324,Recent,Full Service Restaurant,$$$$,<10,Downtown,Salad & Sandwich only,110232
+325,Developed,Cafeteria,$,70-90,Suburbs,7-10,71669
+326,Recent,Cafeteria,$$$,20-30,Downtown,15+,83672
+327,Recent,Cafeteria,$$,10-15,Suburbs,15+,46774
+328,Developed,Full Service Restaurant,$$$$,15-20,Downtown,5-7,147811
+329,Recent,Full Service Restaurant,$$$$,90-100,Suburbs,Salad bar only,58493
+330,Recent,Full Service Restaurant,$$$$,10-15,Downtown,Salad & Sandwich only,101915
+331,Well-Known,Full Service Restaurant,$$$$$,10-15,Downtown,5-7,152424
+332,Developed,Cafeteria,$$$$,30-50,Downtown,10-15,129041
+333,Recent,Full Service Restaurant,$$,No seat,Downtown,10-15,75132
+334,Developed,Banquet,$$$$,50-70,Suburbs,< 5,87127
+335,Developed,Cafeteria,$$$$$,15-20,Downtown,Salad & Sandwich only,81572
+336,Developed,Cafeteria,$$$,70-90,Suburbs,15+,122763
+337,Recent,Banquet,$$,30-50,Suburbs,Salad bar only,49801
+338,Recent,Banquet,$$$,<10,Downtown,7-10,83257
+339,Well-Known,Cafeteria,$,90-100,Downtown,5-7,49700
+340,Well-Known,Full Service Restaurant,$,15-20,Downtown,Salad & Sandwich only,60794
+341,Recent,Full Service Restaurant,$$$$,15-20,Downtown,10-15,117788
+342,Well-Known,Full Service Restaurant,$$$$$,10-15,Suburbs,7-10,141126
+343,Recent,Full Service Restaurant,$,100+,Suburbs,Salad bar only,67650
+344,Recent,Banquet,$$$$$,<10,Downtown,5-7,75429
+345,Well-Known,Cafeteria,$,90-100,Suburbs,Salad bar only,37032
+346,Well-Known,Full Service Restaurant,$$$$$,30-50,Suburbs,< 5,131795
+347,Recent,Cafeteria,$$$$,<10,Downtown,5-7,62638
+348,Developed,Cafeteria,$$$$$,30-50,Downtown,7-10,103888
+349,Developed,Full Service Restaurant,$$$,<10,Downtown,7-10,107165
+350,Well-Known,Cafeteria,$$$$,15-20,Suburbs,Salad bar only,83263
+351,Developed,Banquet,$,30-50,Suburbs,Salad bar only,41152
+352,Well-Known,Full Service Restaurant,$$,50-70,Downtown,Salad & Sandwich only,63856
+353,Recent,Full Service Restaurant,$$$,No seat,Downtown,10-15,95595
+354,Recent,Banquet,$$$,20-30,Downtown,10-15,106710
+355,Developed,Banquet,$$$$,15-20,Suburbs,10-15,93311
+356,Recent,Banquet,$$$$,15-20,Suburbs,15+,75962
+357,Recent,Full Service Restaurant,$$$$,15-20,Suburbs,7-10,94859
+358,Well-Known,Cafeteria,$$,No seat,Downtown,< 5,34953
+359,Recent,Cafeteria,$$,100+,Suburbs,7-10,54152
+360,Developed,Banquet,$$$$$,30-50,Suburbs,15+,125777
+361,Developed,Full Service Restaurant,$$$,10-15,Suburbs,Salad bar only,82448
+362,Developed,Full Service Restaurant,$$,20-30,Downtown,Salad & Sandwich only,78616
+363,Developed,Full Service Restaurant,$,100+,Downtown,10-15,105999
+364,Developed,Full Service Restaurant,$,No seat,Downtown,5-7,68258
+365,Developed,Banquet,$$$$$,No seat,Downtown,< 5,83217
+366,Well-Known,Cafeteria,$$$,50-70,Suburbs,7-10,77526
+367,Developed,Banquet,$,20-30,Downtown,10-15,78245
+368,Well-Known,Banquet,$$$,30-50,Downtown,Salad bar only,65362
+369,Well-Known,Banquet,$$$,50-70,Downtown,Salad bar only,69648
+370,Recent,Full Service Restaurant,$$,100+,Suburbs,7-10,95262
+371,Recent,Cafeteria,$$,100+,Suburbs,< 5,48552
+372,Recent,Banquet,$$$,10-15,Downtown,10-15,102942
+373,Recent,Cafeteria,$$$$$,50-70,Suburbs,7-10,69046
+374,Developed,Banquet,$$$,10-15,Downtown,15+,93017
+375,Developed,Banquet,$$$$,90-100,Suburbs,7-10,86229
+376,Developed,Full Service Restaurant,$,50-70,Suburbs,Salad bar only,56954
+377,Well-Known,Cafeteria,$,No seat,Suburbs,Salad & Sandwich only,35613
+378,Well-Known,Banquet,$,15-20,Downtown,Salad bar only,43832
+379,Well-Known,Cafeteria,$,15-20,Downtown,< 5,65319
+380,Recent,Full Service Restaurant,$,100+,Suburbs,7-10,89102
+381,Well-Known,Banquet,$$$,20-30,Suburbs,15+,101549
+382,Recent,Cafeteria,$$$$$,90-100,Downtown,7-10,89425
+383,Recent,Full Service Restaurant,$$$,90-100,Suburbs,Salad bar only,62929
+384,Recent,Full Service Restaurant,$$,30-50,Suburbs,Salad & Sandwich only,72613
+385,Well-Known,Banquet,$,<10,Suburbs,Salad bar only,55264
+386,Recent,Full Service Restaurant,$$$$,No seat,Suburbs,5-7,72729
+387,Recent,Full Service Restaurant,$$$,100+,Downtown,7-10,123991
+388,Recent,Banquet,$$,10-15,Downtown,5-7,99032
+389,Developed,Cafeteria,$$,50-70,Suburbs,10-15,98586
+390,Recent,Cafeteria,$$$$,70-90,Downtown,Salad & Sandwich only,63380
+391,Well-Known,Cafeteria,$,50-70,Downtown,Salad & Sandwich only,24099
+392,Well-Known,Banquet,$$$$$,50-70,Suburbs,Salad & Sandwich only,105464
+393,Developed,Banquet,$$$,15-20,Suburbs,< 5,81173
+394,Recent,Banquet,$$$$,No seat,Downtown,10-15,81568
+395,Developed,Banquet,$,10-15,Suburbs,15+,60863
+396,Recent,Full Service Restaurant,$$$$,<10,Suburbs,5-7,84107
+397,Developed,Full Service Restaurant,$$$,70-90,Downtown,< 5,119856
+398,Well-Known,Full Service Restaurant,$$,No seat,Suburbs,7-10,67865
+399,Recent,Cafeteria,$$$,15-20,Suburbs,7-10,67027
+400,Well-Known,Cafeteria,$$$,<10,Suburbs,< 5,66635
+401,Recent,Cafeteria,$$$$,<10,Downtown,7-10,60459
+402,Recent,Full Service Restaurant,$$$,20-30,Downtown,5-7,125550
+403,Recent,Banquet,$$$$$,20-30,Downtown,5-7,101646
+404,Developed,Banquet,$,90-100,Downtown,Salad & Sandwich only,48732
+405,Recent,Full Service Restaurant,$$$$,20-30,Downtown,Salad bar only,92862
+406,Recent,Full Service Restaurant,$$$$,10-15,Suburbs,10-15,74676
+407,Recent,Cafeteria,$$$$,100+,Downtown,5-7,85846
+408,Developed,Cafeteria,$$$,No seat,Downtown,Salad & Sandwich only,64965
+409,Developed,Cafeteria,$$$,15-20,Downtown,15+,89158
+410,Developed,Cafeteria,$$,No seat,Downtown,< 5,35017
+411,Developed,Full Service Restaurant,$,10-15,Downtown,Salad & Sandwich only,60063
+412,Developed,Cafeteria,$,15-20,Suburbs,5-7,71546
+413,Well-Known,Banquet,$$$$$,<10,Downtown,5-7,125396
+414,Developed,Banquet,$$$$$,15-20,Suburbs,5-7,107266
+415,Developed,Full Service Restaurant,$,10-15,Suburbs,5-7,94243
+416,Developed,Cafeteria,$$$$,100+,Downtown,10-15,111946
+417,Well-Known,Cafeteria,$$$$,90-100,Suburbs,5-7,86330
+418,Developed,Banquet,$,100+,Downtown,Salad bar only,45368
+419,Developed,Banquet,$$$,10-15,Suburbs,< 5,90871
+420,Well-Known,Banquet,$$,<10,Downtown,10-15,60999
+421,Well-Known,Banquet,$,100+,Downtown,15+,95172
+422,Developed,Banquet,$$$$,100+,Downtown,< 5,100455
+423,Well-Known,Full Service Restaurant,$$$$$,90-100,Downtown,Salad bar only,120819
+424,Recent,Full Service Restaurant,$$$,100+,Downtown,15+,138434
+425,Well-Known,Banquet,$$,90-100,Downtown,< 5,70095
+426,Recent,Banquet,$$$$,70-90,Downtown,Salad & Sandwich only,88200
+427,Developed,Cafeteria,$$$$,70-90,Suburbs,5-7,62862
+428,Developed,Full Service Restaurant,$$,30-50,Downtown,10-15,119192
+429,Well-Known,Cafeteria,$$$$$,70-90,Suburbs,7-10,113293
+430,Recent,Full Service Restaurant,$$$$,<10,Suburbs,10-15,66149
+431,Developed,Banquet,$$$,15-20,Suburbs,Salad & Sandwich only,65306
+432,Developed,Full Service Restaurant,$$$,<10,Suburbs,7-10,92961
+433,Recent,Cafeteria,$$$$,<10,Downtown,< 5,76963
+434,Well-Known,Cafeteria,$$$$,<10,Suburbs,10-15,81843
+435,Well-Known,Cafeteria,$$$,100+,Suburbs,Salad & Sandwich only,59003
+436,Developed,Cafeteria,$,<10,Downtown,7-10,30307
+437,Well-Known,Cafeteria,$$,No seat,Downtown,7-10,39328
+438,Well-Known,Full Service Restaurant,$$$$$,70-90,Suburbs,7-10,141204
+439,Developed,Cafeteria,$$$$,70-90,Suburbs,5-7,64349
+440,Developed,Banquet,$,<10,Suburbs,< 5,50674
+441,Recent,Cafeteria,$$$,<10,Downtown,< 5,59889
+442,Developed,Banquet,$,15-20,Suburbs,15+,77159
+443,Recent,Cafeteria,$$$$,100+,Suburbs,Salad bar only,32229
+444,Recent,Full Service Restaurant,$$$$,20-30,Downtown,< 5,116762
+445,Well-Known,Cafeteria,$$$,10-15,Suburbs,7-10,76686
+446,Developed,Cafeteria,$$,100+,Downtown,10-15,88626
+447,Well-Known,Full Service Restaurant,$$,90-100,Downtown,Salad & Sandwich only,76512
+448,Recent,Full Service Restaurant,$,No seat,Suburbs,Salad & Sandwich only,80425
+449,Recent,Banquet,$$$$$,No seat,Suburbs,15+,50829
+450,Recent,Full Service Restaurant,$$,20-30,Suburbs,Salad bar only,78551
+451,Developed,Banquet,$$$$$,90-100,Suburbs,15+,111445
+452,Recent,Full Service Restaurant,$$,100+,Suburbs,7-10,81062
+453,Developed,Full Service Restaurant,$$,90-100,Suburbs,7-10,97629
+454,Well-Known,Full Service Restaurant,$,<10,Suburbs,10-15,73240
+455,Well-Known,Cafeteria,$$$,No seat,Downtown,5-7,54081
+456,Well-Known,Banquet,$$$$,50-70,Downtown,5-7,108854
+457,Recent,Full Service Restaurant,$$,70-90,Suburbs,< 5,82070
+458,Recent,Full Service Restaurant,$$$$,30-50,Suburbs,5-7,81741
+459,Well-Known,Full Service Restaurant,$$$$,90-100,Downtown,10-15,141723
+460,Well-Known,Banquet,$$$,15-20,Suburbs,< 5,92987
+461,Developed,Cafeteria,$$$$,50-70,Suburbs,5-7,69307
+462,Recent,Full Service Restaurant,$,<10,Suburbs,5-7,81100
+463,Well-Known,Cafeteria,$$$$$,100+,Downtown,15+,134968
+464,Developed,Full Service Restaurant,$,10-15,Suburbs,Salad bar only,66558
+465,Developed,Cafeteria,$$$$$,15-20,Downtown,Salad & Sandwich only,83933
+466,Well-Known,Full Service Restaurant,$$,No seat,Downtown,Salad & Sandwich only,68112
+467,Well-Known,Cafeteria,$$$,15-20,Suburbs,5-7,98728
+468,Recent,Full Service Restaurant,$$$$,70-90,Downtown,5-7,114338
+469,Well-Known,Full Service Restaurant,$$,<10,Suburbs,Salad & Sandwich only,91944
+470,Developed,Full Service Restaurant,$$$,90-100,Suburbs,5-7,100137
+471,Recent,Cafeteria,$$$,50-70,Suburbs,10-15,97709
+472,Developed,Full Service Restaurant,$$$,100+,Suburbs,Salad bar only,78123
+473,Well-Known,Banquet,$$$$$,70-90,Suburbs,Salad bar only,90329
+474,Well-Known,Cafeteria,$$$$$,100+,Downtown,Salad & Sandwich only,99055
+475,Well-Known,Banquet,$$$$,30-50,Suburbs,10-15,150121
+476,Developed,Banquet,$$$,90-100,Downtown,< 5,85599
+477,Well-Known,Banquet,$,20-30,Downtown,Salad bar only,48910
+478,Developed,Banquet,$$$$,50-70,Suburbs,Salad bar only,72101
+479,Well-Known,Cafeteria,$,100+,Suburbs,Salad & Sandwich only,41965
+480,Recent,Cafeteria,$$,30-50,Suburbs,10-15,82776
+481,Developed,Cafeteria,$$$$$,100+,Suburbs,Salad bar only,52866
+482,Well-Known,Cafeteria,$$$$$,15-20,Downtown,10-15,107148
+483,Recent,Banquet,$$$,50-70,Suburbs,15+,120744
+484,Developed,Cafeteria,$$$$$,20-30,Downtown,< 5,106745
+485,Well-Known,Banquet,$$$$,20-30,Downtown,15+,122090
+486,Recent,Full Service Restaurant,$$,10-15,Downtown,Salad bar only,73745
+487,Well-Known,Banquet,$,100+,Downtown,15+,90198
+488,Recent,Banquet,$$$,30-50,Suburbs,5-7,67860
+489,Recent,Cafeteria,$,30-50,Downtown,Salad & Sandwich only,45447
+490,Developed,Banquet,$$$,20-30,Downtown,10-15,107660
+491,Developed,Banquet,$$,<10,Suburbs,7-10,78408
+492,Well-Known,Banquet,$$$$$,100+,Downtown,Salad & Sandwich only,109195
+493,Well-Known,Cafeteria,$$$$$,10-15,Downtown,5-7,126830
+494,Developed,Full Service Restaurant,$$$$$,20-30,Suburbs,7-10,115658
+495,Recent,Full Service Restaurant,$$$,20-30,Downtown,15+,125024
+496,Well-Known,Full Service Restaurant,$$$,<10,Suburbs,10-15,85854
+497,Developed,Full Service Restaurant,$,20-30,Downtown,Salad bar only,73274
+498,Recent,Cafeteria,$$$$$,70-90,Suburbs,Salad bar only,34836
+499,Developed,Banquet,$$$$,50-70,Downtown,5-7,111576
+500,Developed,Banquet,$$,90-100,Downtown,7-10,75956
+501,Developed,Banquet,$$$$$,30-50,Suburbs,15+,122418
+502,Developed,Banquet,$,20-30,Downtown,Salad & Sandwich only,50831
+503,Well-Known,Cafeteria,$$$$$,10-15,Downtown,Salad bar only,102658
+504,Recent,Full Service Restaurant,$$$,50-70,Suburbs,7-10,105845
+505,Developed,Cafeteria,$,15-20,Downtown,7-10,71736
+506,Recent,Full Service Restaurant,$$$$$,10-15,Suburbs,Salad bar only,69593
+507,Developed,Cafeteria,$$$$,90-100,Suburbs,7-10,72619
+508,Developed,Cafeteria,$$,100+,Downtown,Salad & Sandwich only,38900
+509,Well-Known,Full Service Restaurant,$$$$,90-100,Suburbs,Salad bar only,106482
+510,Well-Known,Banquet,$$,15-20,Downtown,10-15,69880
+511,Developed,Banquet,$$$,30-50,Suburbs,7-10,100879
+512,Developed,Full Service Restaurant,$$,50-70,Downtown,5-7,88686
+513,Well-Known,Banquet,$$$$,15-20,Downtown,7-10,116595
+514,Recent,Banquet,$$$$$,70-90,Suburbs,5-7,66118
+515,Developed,Full Service Restaurant,$$,20-30,Suburbs,< 5,113346
+516,Recent,Cafeteria,$$$,90-100,Suburbs,Salad bar only,34940
+517,Recent,Full Service Restaurant,$$$,10-15,Downtown,< 5,111662
+518,Well-Known,Full Service Restaurant,$$,50-70,Downtown,Salad bar only,77050
+519,Recent,Banquet,$$$$,20-30,Suburbs,Salad & Sandwich only,68746
+520,Developed,Full Service Restaurant,$$$$$,15-20,Suburbs,10-15,98587
+521,Recent,Banquet,$$$$,30-50,Downtown,5-7,107330
+522,Developed,Cafeteria,$$$$,<10,Suburbs,10-15,60816
+523,Developed,Cafeteria,$$$$$,50-70,Suburbs,5-7,70322
+524,Developed,Full Service Restaurant,$$,20-30,Suburbs,5-7,112213
+525,Well-Known,Full Service Restaurant,$$$$,20-30,Suburbs,Salad bar only,115713
+526,Developed,Full Service Restaurant,$$$$$,70-90,Suburbs,Salad bar only,79104
+527,Developed,Cafeteria,$,No seat,Suburbs,Salad bar only,31551
+528,Recent,Full Service Restaurant,$,20-30,Downtown,10-15,87106
+529,Well-Known,Cafeteria,$$,No seat,Downtown,5-7,29689
+530,Developed,Banquet,$$$$$,<10,Suburbs,7-10,74034
+531,Recent,Full Service Restaurant,$$$,70-90,Suburbs,10-15,115673
+532,Well-Known,Full Service Restaurant,$$$,10-15,Suburbs,15+,113160
+533,Recent,Cafeteria,$$$,30-50,Suburbs,Salad bar only,40074
+534,Developed,Cafeteria,$,70-90,Downtown,Salad & Sandwich only,36204
+535,Well-Known,Cafeteria,$$$$$,100+,Downtown,Salad & Sandwich only,88859
+536,Well-Known,Banquet,$$$,<10,Suburbs,Salad bar only,88144
+537,Well-Known,Cafeteria,$,No seat,Downtown,10-15,21297
+538,Developed,Cafeteria,$$$,<10,Suburbs,10-15,57623
+539,Well-Known,Full Service Restaurant,$,90-100,Suburbs,10-15,109875
+540,Recent,Banquet,$$,50-70,Downtown,7-10,93321
+541,Well-Known,Cafeteria,$,<10,Suburbs,5-7,40007
+542,Recent,Banquet,$$$$$,20-30,Downtown,15+,112427
+543,Well-Known,Full Service Restaurant,$$$$$,100+,Suburbs,15+,168985
+544,Well-Known,Full Service Restaurant,$$$,50-70,Downtown,5-7,104558
+545,Recent,Banquet,$,30-50,Downtown,Salad & Sandwich only,42922
+546,Recent,Cafeteria,$$$,15-20,Suburbs,5-7,71039
+547,Recent,Full Service Restaurant,$$$$,15-20,Suburbs,< 5,86919
+548,Well-Known,Cafeteria,$,70-90,Suburbs,Salad bar only,37433
+549,Well-Known,Cafeteria,$$$,20-30,Suburbs,5-7,96641
+550,Well-Known,Full Service Restaurant,$$,70-90,Suburbs,10-15,116026
+551,Recent,Full Service Restaurant,$$,20-30,Suburbs,7-10,112492
+552,Well-Known,Cafeteria,$$,<10,Suburbs,15+,44336
+553,Recent,Banquet,$,10-15,Downtown,15+,73126
+554,Well-Known,Banquet,$$$$$,90-100,Suburbs,Salad bar only,90197
+555,Developed,Full Service Restaurant,$$,100+,Downtown,Salad & Sandwich only,83525
+556,Developed,Full Service Restaurant,$,10-15,Suburbs,5-7,84493
+557,Well-Known,Cafeteria,$$$,100+,Downtown,7-10,66803
+558,Recent,Full Service Restaurant,$$,<10,Suburbs,< 5,74375
+559,Developed,Banquet,$$$$,100+,Downtown,Salad bar only,80072
+560,Recent,Full Service Restaurant,$$,70-90,Suburbs,7-10,93286
+561,Recent,Full Service Restaurant,$$$,100+,Suburbs,Salad & Sandwich only,70064
+562,Developed,Banquet,$$$$,90-100,Suburbs,Salad bar only,61023
+563,Recent,Banquet,$$$,No seat,Downtown,5-7,70610
+564,Recent,Banquet,$$$$,90-100,Suburbs,10-15,93709
+565,Well-Known,Full Service Restaurant,$$,20-30,Downtown,Salad & Sandwich only,69709
+566,Developed,Full Service Restaurant,$$,10-15,Downtown,7-10,93667
+567,Recent,Full Service Restaurant,$$$$$,50-70,Suburbs,7-10,98320
+568,Well-Known,Full Service Restaurant,$$$,30-50,Suburbs,10-15,146015
+569,Recent,Banquet,$$,30-50,Suburbs,< 5,64590
+570,Developed,Full Service Restaurant,$,90-100,Suburbs,15+,114036
+571,Recent,Banquet,$$$,50-70,Downtown,10-15,126348
+572,Recent,Banquet,$,<10,Suburbs,7-10,67185
+573,Well-Known,Cafeteria,$$$$,<10,Downtown,10-15,76889
+574,Well-Known,Cafeteria,$$$$$,10-15,Suburbs,10-15,107174
+575,Recent,Cafeteria,$$$,100+,Suburbs,Salad bar only,34918
+576,Recent,Full Service Restaurant,$,<10,Downtown,Salad bar only,75917
+577,Developed,Banquet,$$$$$,15-20,Downtown,Salad bar only,96468
+578,Recent,Banquet,$,10-15,Suburbs,Salad & Sandwich only,58686
+579,Well-Known,Banquet,$$,100+,Downtown,15+,107209
+580,Developed,Banquet,$$$$,50-70,Suburbs,7-10,94325
+581,Recent,Cafeteria,$,90-100,Suburbs,7-10,63968
+582,Developed,Cafeteria,$,50-70,Downtown,10-15,90988
+583,Recent,Banquet,$$$,20-30,Suburbs,< 5,69098
+584,Developed,Full Service Restaurant,$$$,No seat,Downtown,10-15,94258
+585,Well-Known,Full Service Restaurant,$$,100+,Downtown,5-7,81315
+586,Recent,Full Service Restaurant,$$$$$,70-90,Suburbs,Salad & Sandwich only,77068
+587,Well-Known,Full Service Restaurant,$$$,100+,Suburbs,15+,129299
+588,Recent,Banquet,$$$$$,70-90,Downtown,Salad & Sandwich only,71589
+589,Well-Known,Banquet,$$,100+,Downtown,15+,109239
+590,Developed,Full Service Restaurant,$$$$$,90-100,Downtown,10-15,140725
+591,Recent,Full Service Restaurant,$,10-15,Downtown,Salad & Sandwich only,61945
+592,Recent,Full Service Restaurant,$,15-20,Downtown,Salad & Sandwich only,68088
+593,Well-Known,Cafeteria,$$$$$,20-30,Suburbs,7-10,136237
+594,Well-Known,Full Service Restaurant,$$$,90-100,Suburbs,< 5,90421
+595,Well-Known,Cafeteria,$,No seat,Suburbs,Salad & Sandwich only,30257
+596,Recent,Full Service Restaurant,$$$$$,100+,Downtown,10-15,133049
+597,Recent,Full Service Restaurant,$$$$,100+,Downtown,Salad bar only,93977
+598,Recent,Full Service Restaurant,$,15-20,Suburbs,Salad bar only,73678
+599,Well-Known,Cafeteria,$$,90-100,Downtown,Salad bar only,40269
+600,Developed,Banquet,$$$$$,15-20,Downtown,5-7,122773
+601,Developed,Full Service Restaurant,$$$,No seat,Downtown,15+,104595
+602,Recent,Full Service Restaurant,$,70-90,Downtown,15+,131163
+603,Well-Known,Cafeteria,$$,<10,Downtown,10-15,46804
+604,Developed,Cafeteria,$$$,90-100,Suburbs,Salad & Sandwich only,43019
+605,Developed,Full Service Restaurant,$$$,10-15,Downtown,Salad & Sandwich only,98987
+606,Developed,Full Service Restaurant,$$$$$,30-50,Suburbs,15+,141144
+607,Well-Known,Cafeteria,$$$$$,20-30,Suburbs,10-15,120997
+608,Recent,Cafeteria,$$$,<10,Suburbs,Salad bar only,42027
+609,Well-Known,Cafeteria,$$$$,<10,Suburbs,< 5,78257
+610,Recent,Banquet,$,No seat,Suburbs,Salad & Sandwich only,56372
+611,Recent,Banquet,$$$$$,No seat,Suburbs,< 5,44484
+612,Developed,Full Service Restaurant,$$$,No seat,Downtown,5-7,95835
+613,Recent,Full Service Restaurant,$$,10-15,Suburbs,< 5,96481
+614,Developed,Full Service Restaurant,$$$$$,100+,Suburbs,15+,123980
+615,Well-Known,Cafeteria,$$$$$,30-50,Downtown,< 5,113246
+616,Recent,Banquet,$$$$,100+,Downtown,Salad bar only,75777
+617,Recent,Full Service Restaurant,$$,No seat,Downtown,7-10,90302
+618,Developed,Cafeteria,$,10-15,Downtown,< 5,50046
+619,Developed,Cafeteria,$$$,10-15,Suburbs,10-15,65902
+620,Well-Known,Full Service Restaurant,$$$$$,70-90,Suburbs,Salad bar only,119418
+621,Developed,Cafeteria,$$,No seat,Downtown,Salad bar only,51721
+622,Recent,Banquet,$,10-15,Downtown,15+,57964
+623,Developed,Cafeteria,$,15-20,Downtown,5-7,59958
+624,Developed,Banquet,$$$,100+,Suburbs,7-10,79807
+625,Recent,Full Service Restaurant,$,15-20,Suburbs,Salad & Sandwich only,86709
+626,Well-Known,Cafeteria,$$$$,15-20,Suburbs,7-10,105860
+627,Recent,Full Service Restaurant,$$$,20-30,Suburbs,7-10,117675
+628,Recent,Banquet,$$$$,100+,Downtown,< 5,81245
+629,Recent,Cafeteria,$,90-100,Downtown,Salad bar only,33190
+630,Well-Known,Banquet,$$$,90-100,Downtown,10-15,114390
+631,Developed,Cafeteria,$$$,50-70,Downtown,15+,135233
+632,Developed,Banquet,$$,90-100,Suburbs,Salad & Sandwich only,70158
+633,Well-Known,Cafeteria,$$$,20-30,Downtown,Salad bar only,62065
+634,Well-Known,Cafeteria,$$$$,30-50,Downtown,15+,116700
+635,Well-Known,Cafeteria,$$$$$,<10,Downtown,Salad & Sandwich only,109162
+636,Well-Known,Cafeteria,$$$,20-30,Downtown,10-15,80914
+637,Recent,Full Service Restaurant,$$$$$,<10,Suburbs,7-10,76224
+638,Developed,Full Service Restaurant,$$$,15-20,Downtown,15+,109605
+639,Recent,Banquet,$$$$,90-100,Downtown,5-7,95918
+640,Recent,Full Service Restaurant,$,15-20,Suburbs,Salad bar only,72676
+641,Recent,Full Service Restaurant,$$$,30-50,Suburbs,Salad & Sandwich only,64102
+642,Recent,Full Service Restaurant,$$$$$,10-15,Downtown,5-7,126938
+643,Developed,Full Service Restaurant,$$$$$,70-90,Downtown,10-15,160150
+644,Well-Known,Full Service Restaurant,$$,100+,Suburbs,< 5,85974
+645,Well-Known,Full Service Restaurant,$$$,<10,Suburbs,Salad bar only,89291
+646,Recent,Full Service Restaurant,$$$$$,90-100,Suburbs,Salad & Sandwich only,65431
+647,Developed,Full Service Restaurant,$$$$$,10-15,Downtown,10-15,122744
+648,Developed,Full Service Restaurant,$$$$$,90-100,Downtown,Salad bar only,95198
+649,Developed,Full Service Restaurant,$$,<10,Downtown,Salad & Sandwich only,96225
+650,Well-Known,Full Service Restaurant,$,10-15,Suburbs,7-10,95965
+651,Recent,Banquet,$$,50-70,Downtown,Salad bar only,67361
+652,Developed,Cafeteria,$$$$,20-30,Suburbs,5-7,78807
+653,Recent,Cafeteria,$$,10-15,Downtown,10-15,61770
+654,Recent,Full Service Restaurant,$$$,20-30,Suburbs,Salad & Sandwich only,76707
+655,Well-Known,Full Service Restaurant,$$,20-30,Downtown,15+,106977
+656,Developed,Cafeteria,$$$$$,30-50,Downtown,Salad bar only,71274
+657,Developed,Full Service Restaurant,$$,90-100,Suburbs,< 5,101248
+658,Well-Known,Banquet,$,10-15,Downtown,5-7,62154
+659,Recent,Full Service Restaurant,$$,90-100,Suburbs,Salad & Sandwich only,67034
+660,Developed,Cafeteria,$$$$$,30-50,Downtown,15+,128962
+661,Well-Known,Full Service Restaurant,$$$$$,10-15,Suburbs,7-10,146532
+662,Developed,Cafeteria,$$,90-100,Downtown,Salad bar only,33243
+663,Developed,Full Service Restaurant,$$$$$,<10,Suburbs,7-10,77854
+664,Recent,Banquet,$,50-70,Downtown,Salad bar only,45017
+665,Well-Known,Cafeteria,$,50-70,Downtown,10-15,93908
+666,Recent,Cafeteria,$$$,No seat,Downtown,5-7,57009
+667,Well-Known,Full Service Restaurant,$$,90-100,Downtown,10-15,107929
+668,Recent,Cafeteria,$,70-90,Suburbs,Salad & Sandwich only,52139
+669,Developed,Cafeteria,$$$,10-15,Suburbs,10-15,69614
+670,Developed,Full Service Restaurant,$$$$,15-20,Downtown,15+,132017
+671,Recent,Full Service Restaurant,$$$,<10,Downtown,Salad & Sandwich only,108471
+672,Developed,Banquet,$,100+,Downtown,10-15,83908
+673,Recent,Banquet,$$$$,No seat,Suburbs,5-7,59109
+674,Recent,Cafeteria,$$$,50-70,Downtown,15+,135321
+675,Well-Known,Banquet,$$$,No seat,Suburbs,< 5,76084
+676,Developed,Full Service Restaurant,$$,90-100,Downtown,5-7,89309
+677,Recent,Full Service Restaurant,$$$,30-50,Downtown,15+,154722
+678,Well-Known,Cafeteria,$$$,90-100,Suburbs,15+,99077
+679,Well-Known,Full Service Restaurant,$$,15-20,Suburbs,7-10,116480
+680,Well-Known,Full Service Restaurant,$$,100+,Suburbs,Salad bar only,76165
+681,Well-Known,Full Service Restaurant,$$,100+,Downtown,Salad & Sandwich only,63518
+682,Developed,Banquet,$,10-15,Downtown,Salad bar only,44418
+683,Well-Known,Cafeteria,$,70-90,Suburbs,< 5,52925
+684,Developed,Banquet,$$$,20-30,Downtown,7-10,116279
+685,Recent,Full Service Restaurant,$$$$,10-15,Suburbs,10-15,78307
+686,Recent,Full Service Restaurant,$,20-30,Suburbs,10-15,101036
+687,Developed,Cafeteria,$$$$$,No seat,Downtown,5-7,70647
+688,Well-Known,Banquet,$$$$,70-90,Downtown,Salad bar only,91260
+689,Well-Known,Cafeteria,$$$,100+,Downtown,10-15,84083
+690,Recent,Full Service Restaurant,$$$$,No seat,Downtown,15+,82784
+691,Recent,Full Service Restaurant,$,10-15,Suburbs,Salad & Sandwich only,82328
+692,Well-Known,Full Service Restaurant,$$$$,10-15,Downtown,Salad & Sandwich only,116195
+693,Well-Known,Cafeteria,$$$,15-20,Suburbs,7-10,92259
+694,Recent,Cafeteria,$$$,90-100,Downtown,5-7,83997
+695,Recent,Cafeteria,$$$,20-30,Suburbs,Salad & Sandwich only,36705
+696,Recent,Banquet,$$,70-90,Downtown,Salad bar only,57157
+697,Well-Known,Banquet,$,10-15,Downtown,Salad & Sandwich only,50002
+698,Well-Known,Banquet,$$$,100+,Suburbs,15+,121078
+699,Recent,Banquet,$$$$$,20-30,Downtown,5-7,106047
+700,Recent,Full Service Restaurant,$,50-70,Suburbs,Salad bar only,67686
+701,Recent,Full Service Restaurant,$$,No seat,Suburbs,< 5,74750
+702,Developed,Banquet,$$,90-100,Suburbs,10-15,107565
+703,Developed,Full Service Restaurant,$$,90-100,Downtown,Salad & Sandwich only,70305
+704,Recent,Cafeteria,$,<10,Downtown,10-15,34907
+705,Recent,Cafeteria,$$$,30-50,Suburbs,7-10,62414
+706,Developed,Full Service Restaurant,$,100+,Suburbs,15+,113227
+707,Recent,Cafeteria,$,70-90,Downtown,10-15,87416
+708,Recent,Cafeteria,$,50-70,Suburbs,5-7,56842
+709,Well-Known,Banquet,$,90-100,Suburbs,5-7,67213
+710,Well-Known,Banquet,$,50-70,Suburbs,7-10,66011
+711,Recent,Banquet,$$$$$,15-20,Suburbs,Salad bar only,51382
+712,Well-Known,Full Service Restaurant,$$$$$,10-15,Suburbs,Salad bar only,113702
+713,Recent,Full Service Restaurant,$,10-15,Downtown,Salad & Sandwich only,65904
+714,Developed,Full Service Restaurant,$$$,15-20,Suburbs,7-10,124729
+715,Well-Known,Banquet,$$$,<10,Downtown,Salad bar only,65416
+716,Developed,Banquet,$,30-50,Suburbs,10-15,111877
+717,Developed,Cafeteria,$$$$$,50-70,Suburbs,< 5,63053
+718,Recent,Banquet,$$$,50-70,Suburbs,7-10,89299
+719,Recent,Cafeteria,$$$$$,<10,Downtown,Salad bar only,68758
+720,Recent,Banquet,$$,100+,Suburbs,15+,96784
+721,Recent,Banquet,$$,70-90,Suburbs,5-7,83758
+722,Well-Known,Banquet,$$$,No seat,Suburbs,Salad & Sandwich only,68347
+723,Well-Known,Full Service Restaurant,$$$$,30-50,Suburbs,Salad & Sandwich only,120258
+724,Developed,Full Service Restaurant,$$,15-20,Suburbs,10-15,101050
+725,Recent,Cafeteria,$$$$$,70-90,Suburbs,10-15,98870
+726,Recent,Banquet,$$$,15-20,Suburbs,7-10,86378
+727,Recent,Cafeteria,$,100+,Downtown,15+,80371
+728,Developed,Full Service Restaurant,$$,20-30,Downtown,15+,99439
+729,Developed,Banquet,$$$,<10,Downtown,< 5,85463
+730,Recent,Cafeteria,$$$$$,70-90,Downtown,< 5,83185
+731,Well-Known,Banquet,$$$,15-20,Suburbs,< 5,88060
+732,Recent,Cafeteria,$$$$$,30-50,Suburbs,< 5,55336
+733,Recent,Cafeteria,$,30-50,Downtown,7-10,53845
+734,Developed,Cafeteria,$$$$,No seat,Suburbs,15+,53861
+735,Well-Known,Banquet,$,15-20,Downtown,< 5,64504
+736,Developed,Cafeteria,$$$$$,100+,Suburbs,Salad & Sandwich only,40561
+737,Recent,Full Service Restaurant,$$$$$,<10,Downtown,10-15,95651
+738,Developed,Full Service Restaurant,$$$,100+,Downtown,Salad bar only,101222
+739,Recent,Banquet,$,90-100,Downtown,< 5,51179
+740,Well-Known,Banquet,$$$$,10-15,Suburbs,Salad bar only,100814
+741,Developed,Full Service Restaurant,$$$$,50-70,Suburbs,15+,135864
+742,Recent,Full Service Restaurant,$$$,10-15,Suburbs,Salad bar only,63466
+743,Well-Known,Banquet,$$$$$,<10,Suburbs,15+,97363
+744,Recent,Full Service Restaurant,$,<10,Downtown,15+,64823
+745,Recent,Banquet,$$$$,10-15,Suburbs,5-7,69908
+746,Well-Known,Full Service Restaurant,$,No seat,Downtown,15+,71799
+747,Developed,Banquet,$,<10,Downtown,Salad & Sandwich only,62744
+748,Developed,Banquet,$$$$$,90-100,Suburbs,Salad & Sandwich only,70158
+749,Recent,Full Service Restaurant,$$$,15-20,Downtown,15+,120295
+750,Well-Known,Cafeteria,$$$$$,90-100,Downtown,Salad bar only,103150
+751,Well-Known,Banquet,$$,70-90,Downtown,7-10,73920
+752,Developed,Cafeteria,$$,100+,Downtown,5-7,53553
+753,Well-Known,Banquet,$$,100+,Downtown,10-15,88328
+754,Developed,Banquet,$$$,70-90,Downtown,Salad & Sandwich only,80887
+755,Developed,Full Service Restaurant,$$$,10-15,Downtown,5-7,125149
+756,Developed,Full Service Restaurant,$$,50-70,Downtown,Salad & Sandwich only,70129
+757,Developed,Banquet,$,10-15,Downtown,Salad & Sandwich only,44050
+758,Well-Known,Banquet,$$$$,50-70,Suburbs,Salad & Sandwich only,92262
+759,Recent,Cafeteria,$$$$,10-15,Suburbs,7-10,55988
+760,Developed,Full Service Restaurant,$$$$$,30-50,Downtown,10-15,157136
+761,Well-Known,Full Service Restaurant,$$$$$,No seat,Downtown,Salad bar only,138049
+762,Recent,Banquet,$,90-100,Downtown,Salad bar only,49288
+763,Well-Known,Banquet,$$$$$,30-50,Suburbs,15+,155446
+764,Well-Known,Full Service Restaurant,$$,No seat,Suburbs,5-7,73418
+765,Recent,Cafeteria,$,10-15,Downtown,7-10,53727
+766,Developed,Cafeteria,$$,10-15,Downtown,Salad bar only,36214
+767,Recent,Banquet,$$$,No seat,Suburbs,Salad & Sandwich only,53414
+768,Developed,Banquet,$,10-15,Suburbs,7-10,70830
+769,Well-Known,Cafeteria,$$$,70-90,Downtown,5-7,70678
+770,Recent,Cafeteria,$$$$,50-70,Suburbs,Salad & Sandwich only,37624
+771,Well-Known,Cafeteria,$$$$$,50-70,Suburbs,15+,151753
+772,Developed,Full Service Restaurant,$$,10-15,Downtown,15+,98550
+773,Recent,Banquet,$$$$,50-70,Suburbs,5-7,71655
+774,Well-Known,Cafeteria,$$$,No seat,Downtown,Salad & Sandwich only,65651
+775,Developed,Banquet,$$$$,70-90,Downtown,5-7,119415
+776,Well-Known,Full Service Restaurant,$,15-20,Suburbs,10-15,81118
+777,Recent,Full Service Restaurant,$$,90-100,Suburbs,5-7,85709
+778,Recent,Full Service Restaurant,$,100+,Suburbs,< 5,82889
+779,Developed,Cafeteria,$$$$$,100+,Suburbs,15+,92531
+780,Well-Known,Cafeteria,$$$$,70-90,Suburbs,10-15,124598
+781,Recent,Full Service Restaurant,$$$,15-20,Suburbs,5-7,110505
+782,Recent,Cafeteria,$$$,100+,Suburbs,15+,84836
+783,Recent,Cafeteria,$$$$$,<10,Downtown,Salad bar only,68861
+784,Developed,Cafeteria,$$$,20-30,Suburbs,15+,84019
+785,Developed,Cafeteria,$$,20-30,Suburbs,15+,87931
+786,Developed,Cafeteria,$$$,90-100,Downtown,5-7,74752
+787,Well-Known,Banquet,$,70-90,Suburbs,Salad & Sandwich only,43962
+788,Recent,Full Service Restaurant,$$$,50-70,Suburbs,7-10,94508
+789,Recent,Banquet,$$$$$,70-90,Suburbs,7-10,72964
+790,Recent,Banquet,$$$,<10,Downtown,15+,81914
+791,Well-Known,Cafeteria,$,30-50,Downtown,< 5,43221
+792,Recent,Banquet,$$,70-90,Downtown,5-7,79959
+793,Well-Known,Full Service Restaurant,$$$,<10,Suburbs,Salad bar only,95842
+794,Recent,Full Service Restaurant,$$$$,<10,Downtown,10-15,88461
+795,Developed,Cafeteria,$$$,100+,Suburbs,15+,104551
+796,Developed,Banquet,$$$,30-50,Suburbs,5-7,84587
+797,Developed,Banquet,$,90-100,Downtown,Salad bar only,40996
+798,Recent,Cafeteria,$$$$$,50-70,Suburbs,Salad & Sandwich only,43980
+799,Well-Known,Banquet,$$$$$,15-20,Suburbs,15+,113186
+800,Recent,Cafeteria,$$$$$,20-30,Suburbs,5-7,80516
+801,Recent,Cafeteria,$$,90-100,Suburbs,7-10,52074
+802,Recent,Full Service Restaurant,$$$$$,90-100,Suburbs,7-10,80173
+803,Well-Known,Cafeteria,$$$,15-20,Downtown,5-7,89364
+804,Developed,Banquet,$$,50-70,Suburbs,5-7,99598
+805,Developed,Cafeteria,$$$$$,50-70,Suburbs,7-10,83534
+806,Recent,Cafeteria,$,30-50,Suburbs,Salad bar only,41501
+807,Developed,Full Service Restaurant,$,100+,Downtown,Salad bar only,71758
+808,Recent,Full Service Restaurant,$$$$,20-30,Downtown,Salad bar only,93847
+809,Recent,Full Service Restaurant,$$$$,10-15,Suburbs,10-15,91602
+810,Well-Known,Full Service Restaurant,$$,15-20,Downtown,< 5,101156
+811,Recent,Banquet,$$,15-20,Downtown,Salad bar only,63654
+812,Well-Known,Cafeteria,$$,20-30,Suburbs,Salad & Sandwich only,51506
+813,Well-Known,Full Service Restaurant,$$$,70-90,Suburbs,5-7,112143
+814,Well-Known,Banquet,$$,<10,Downtown,Salad bar only,69988
+815,Well-Known,Full Service Restaurant,$$$,No seat,Suburbs,10-15,91479
+816,Developed,Cafeteria,$$$,<10,Suburbs,5-7,55698
+817,Well-Known,Cafeteria,$$$$,90-100,Downtown,7-10,99087
+818,Recent,Banquet,$,No seat,Suburbs,Salad & Sandwich only,69084
+819,Well-Known,Cafeteria,$,70-90,Suburbs,7-10,67668
+820,Developed,Cafeteria,$$$$,15-20,Suburbs,Salad bar only,47805
+821,Recent,Full Service Restaurant,$,<10,Suburbs,Salad bar only,88348
+822,Well-Known,Full Service Restaurant,$$$,<10,Downtown,10-15,87648
+823,Developed,Full Service Restaurant,$$,<10,Downtown,10-15,82170
+824,Developed,Cafeteria,$$$$$,70-90,Suburbs,Salad & Sandwich only,53734
+825,Well-Known,Full Service Restaurant,$$$,No seat,Downtown,5-7,78300
+826,Developed,Cafeteria,$$,50-70,Suburbs,< 5,70961
+827,Developed,Cafeteria,$$$$$,30-50,Suburbs,Salad & Sandwich only,53049
+828,Developed,Cafeteria,$$$$$,<10,Suburbs,15+,60567
+829,Developed,Full Service Restaurant,$,50-70,Downtown,5-7,90669
+830,Developed,Cafeteria,$$$$$,10-15,Downtown,Salad bar only,63935
+831,Recent,Full Service Restaurant,$$$$$,15-20,Suburbs,7-10,100498
+832,Recent,Banquet,$$$$$,20-30,Suburbs,Salad & Sandwich only,63496
+833,Developed,Full Service Restaurant,$$$$$,30-50,Suburbs,5-7,102020
+834,Well-Known,Banquet,$$,50-70,Suburbs,7-10,78261
+835,Recent,Cafeteria,$$$,100+,Downtown,5-7,72970
+836,Well-Known,Banquet,$$$$$,30-50,Suburbs,10-15,158651
+837,Well-Known,Banquet,$$$$,No seat,Suburbs,10-15,86396
+838,Well-Known,Banquet,$$$,<10,Suburbs,10-15,70344
+839,Well-Known,Full Service Restaurant,$$,100+,Downtown,7-10,92396
+840,Developed,Banquet,$,15-20,Downtown,5-7,88332
+841,Well-Known,Full Service Restaurant,$$,<10,Suburbs,10-15,73230
+842,Recent,Cafeteria,$$$$,100+,Downtown,Salad bar only,58264
+843,Developed,Full Service Restaurant,$,20-30,Suburbs,< 5,101239
+844,Well-Known,Banquet,$$$,50-70,Suburbs,< 5,87021
+845,Developed,Cafeteria,$$$$$,10-15,Downtown,15+,83011
+846,Well-Known,Full Service Restaurant,$$$$,20-30,Suburbs,5-7,139081
+847,Developed,Full Service Restaurant,$$$$,70-90,Downtown,7-10,124660
+848,Recent,Banquet,$$$$,50-70,Downtown,7-10,109705
+849,Well-Known,Cafeteria,$$$$$,100+,Suburbs,< 5,97200
+850,Recent,Cafeteria,$,30-50,Downtown,Salad bar only,36633
+851,Developed,Full Service Restaurant,$$$$,20-30,Downtown,Salad & Sandwich only,111892
+852,Well-Known,Cafeteria,$$$,10-15,Downtown,5-7,81817
+853,Developed,Full Service Restaurant,$$$$$,90-100,Downtown,< 5,120971
+854,Well-Known,Banquet,$$$,50-70,Downtown,5-7,83974
+855,Recent,Banquet,$,90-100,Suburbs,Salad bar only,62971
+856,Developed,Full Service Restaurant,$,20-30,Downtown,15+,86266
+857,Recent,Full Service Restaurant,$$$$$,15-20,Suburbs,5-7,111944
+858,Recent,Cafeteria,$$$$,10-15,Suburbs,7-10,62689
+859,Well-Known,Banquet,$$,90-100,Downtown,Salad bar only,63157
+860,Recent,Banquet,$$$$$,No seat,Suburbs,Salad bar only,49285
+861,Developed,Banquet,$$$$,15-20,Suburbs,7-10,98018
+862,Well-Known,Full Service Restaurant,$$$$$,100+,Downtown,< 5,130770
+863,Recent,Cafeteria,$,<10,Downtown,< 5,39209
+864,Well-Known,Banquet,$$$$,30-50,Downtown,Salad & Sandwich only,97562
+865,Recent,Cafeteria,$$$,100+,Downtown,15+,102948
+866,Recent,Cafeteria,$$$$,15-20,Downtown,Salad bar only,62126
+867,Developed,Full Service Restaurant,$$$$$,No seat,Suburbs,Salad & Sandwich only,89915
+868,Recent,Full Service Restaurant,$$,10-15,Downtown,Salad bar only,75142
+869,Developed,Cafeteria,$$$,90-100,Suburbs,Salad & Sandwich only,43769
+870,Developed,Full Service Restaurant,$,90-100,Suburbs,10-15,110774
+871,Well-Known,Cafeteria,$$$$,70-90,Downtown,Salad bar only,72304
+872,Recent,Full Service Restaurant,$$,10-15,Suburbs,Salad bar only,73719
+873,Developed,Full Service Restaurant,$,15-20,Suburbs,7-10,100245
+874,Recent,Banquet,$$,20-30,Suburbs,15+,84656
+875,Recent,Full Service Restaurant,$,15-20,Suburbs,10-15,87445
+876,Recent,Cafeteria,$$,30-50,Suburbs,7-10,73938
+877,Recent,Full Service Restaurant,$,90-100,Downtown,15+,120069
+878,Well-Known,Full Service Restaurant,$,20-30,Downtown,7-10,98009
+879,Recent,Banquet,$$,20-30,Downtown,5-7,101020
+880,Recent,Full Service Restaurant,$$,50-70,Downtown,Salad bar only,81207
+881,Developed,Banquet,$$,<10,Suburbs,Salad & Sandwich only,88092
+882,Well-Known,Banquet,$,<10,Suburbs,Salad & Sandwich only,69667
+883,Recent,Full Service Restaurant,$$$$,100+,Suburbs,15+,116891
+884,Well-Known,Banquet,$$,70-90,Suburbs,Salad & Sandwich only,59232
+885,Well-Known,Banquet,$$$$$,10-15,Suburbs,7-10,114472
+886,Developed,Full Service Restaurant,$$,100+,Downtown,5-7,93203
+887,Recent,Cafeteria,$$$$,100+,Suburbs,Salad & Sandwich only,30032
+888,Well-Known,Banquet,$,10-15,Downtown,15+,71053
+889,Developed,Cafeteria,$$$$$,20-30,Downtown,7-10,115974
+890,Well-Known,Cafeteria,$,70-90,Downtown,< 5,45599
+891,Developed,Banquet,$$$$,30-50,Suburbs,10-15,112199
+892,Well-Known,Cafeteria,$$,70-90,Downtown,15+,103353
+893,Developed,Banquet,$$$,90-100,Downtown,10-15,113586
+894,Recent,Cafeteria,$$$$,90-100,Downtown,7-10,84605
+895,Recent,Cafeteria,$$$$,90-100,Suburbs,10-15,76329
+896,Well-Known,Banquet,$,15-20,Downtown,15+,74647
+897,Recent,Cafeteria,$$$,50-70,Downtown,7-10,90638
+898,Recent,Cafeteria,$$$$,30-50,Downtown,< 5,76361
+899,Recent,Banquet,$$$$$,50-70,Suburbs,Salad bar only,48050
+900,Recent,Full Service Restaurant,$$$$,<10,Downtown,< 5,101013
+901,Recent,Banquet,$$$,No seat,Suburbs,Salad & Sandwich only,55699
+902,Recent,Full Service Restaurant,$$$$$,100+,Suburbs,Salad & Sandwich only,68186
+903,Well-Known,Banquet,$$$$$,<10,Downtown,5-7,124427
+904,Recent,Full Service Restaurant,$$$$,100+,Downtown,Salad & Sandwich only,89724
+905,Well-Known,Banquet,$,50-70,Suburbs,5-7,65221
+906,Recent,Banquet,$,90-100,Downtown,Salad & Sandwich only,56239
+907,Well-Known,Full Service Restaurant,$$$,90-100,Downtown,10-15,132498
+908,Developed,Full Service Restaurant,$$$,15-20,Downtown,7-10,135411
+909,Well-Known,Full Service Restaurant,$$,10-15,Downtown,7-10,97594
+910,Recent,Full Service Restaurant,$$$$$,15-20,Downtown,10-15,112861
+911,Well-Known,Cafeteria,$$,10-15,Downtown,Salad & Sandwich only,52769
+912,Recent,Banquet,$,10-15,Suburbs,15+,78514
+913,Developed,Banquet,$$$$,90-100,Suburbs,15+,110626
+914,Recent,Full Service Restaurant,$$$$,10-15,Downtown,10-15,111051
+915,Developed,Full Service Restaurant,$$$$$,30-50,Suburbs,5-7,101312
+916,Developed,Banquet,$$$$,<10,Suburbs,7-10,69371
+917,Developed,Cafeteria,$$$$$,15-20,Downtown,15+,96859
+918,Well-Known,Full Service Restaurant,$$$$$,10-15,Downtown,15+,141874
+919,Developed,Banquet,$$$$,50-70,Downtown,< 5,114491
+920,Developed,Cafeteria,$$$$$,<10,Downtown,Salad & Sandwich only,95574
+921,Well-Known,Full Service Restaurant,$$$$,50-70,Suburbs,Salad bar only,117765
+922,Developed,Full Service Restaurant,$$$$,90-100,Downtown,5-7,113614
+923,Recent,Full Service Restaurant,$$$$,70-90,Suburbs,5-7,83312
+924,Recent,Cafeteria,$,50-70,Suburbs,10-15,102455
+925,Developed,Banquet,$$,15-20,Suburbs,10-15,88796
+926,Developed,Full Service Restaurant,$$$$$,No seat,Suburbs,< 5,89132
+927,Well-Known,Full Service Restaurant,$$$$$,30-50,Downtown,7-10,154802
+928,Well-Known,Full Service Restaurant,$,70-90,Suburbs,Salad bar only,66753
+929,Recent,Banquet,$$$$$,15-20,Suburbs,15+,71904
+930,Developed,Cafeteria,$$,100+,Suburbs,Salad bar only,41914
+931,Recent,Full Service Restaurant,$$$,<10,Suburbs,5-7,70372
+932,Recent,Cafeteria,$$,90-100,Downtown,Salad bar only,54068
+933,Recent,Full Service Restaurant,$$$$$,20-30,Downtown,15+,114153
+934,Recent,Cafeteria,$$$$,100+,Suburbs,7-10,66857
+935,Recent,Full Service Restaurant,$$$$,10-15,Downtown,Salad bar only,85377
+936,Recent,Cafeteria,$$$$$,No seat,Downtown,7-10,54872
+937,Recent,Full Service Restaurant,$$$$$,10-15,Downtown,Salad bar only,90134
+938,Recent,Cafeteria,$,30-50,Downtown,< 5,40523
+939,Well-Known,Banquet,$$,No seat,Downtown,Salad & Sandwich only,55187
+940,Well-Known,Full Service Restaurant,$,30-50,Downtown,10-15,114327
+941,Well-Known,Banquet,$$$$$,No seat,Downtown,Salad & Sandwich only,126075
+942,Recent,Banquet,$,15-20,Suburbs,7-10,91006
+943,Developed,Banquet,$,10-15,Downtown,15+,64328
+944,Recent,Full Service Restaurant,$$,50-70,Suburbs,Salad bar only,79196
+945,Developed,Banquet,$,30-50,Suburbs,< 5,60176
+946,Developed,Full Service Restaurant,$$$$,20-30,Suburbs,10-15,114132
+947,Recent,Banquet,$$$,<10,Downtown,10-15,76379
+948,Well-Known,Banquet,$$$$$,90-100,Downtown,7-10,139428
+949,Recent,Cafeteria,$$$,50-70,Suburbs,7-10,59226
+950,Recent,Cafeteria,$$$$,20-30,Suburbs,7-10,84177
+951,Recent,Full Service Restaurant,$$$$,<10,Downtown,< 5,102895
+952,Recent,Cafeteria,$,<10,Downtown,Salad & Sandwich only,47582
+953,Developed,Banquet,$$$,20-30,Suburbs,7-10,101137
+954,Developed,Cafeteria,$$$,90-100,Downtown,7-10,80245
+955,Developed,Cafeteria,$$,100+,Suburbs,Salad bar only,51611
+956,Developed,Cafeteria,$$$,15-20,Suburbs,10-15,66252
+957,Developed,Banquet,$$$,70-90,Downtown,Salad & Sandwich only,86396
+958,Recent,Cafeteria,$$,90-100,Suburbs,10-15,86196
+959,Well-Known,Full Service Restaurant,$$$$$,15-20,Downtown,5-7,161708
+960,Well-Known,Full Service Restaurant,$,<10,Downtown,7-10,65288
+961,Well-Known,Cafeteria,$$$$$,100+,Suburbs,7-10,111084
+962,Developed,Banquet,$$,90-100,Downtown,< 5,67447
+963,Developed,Cafeteria,$,50-70,Suburbs,15+,89202
+964,Well-Known,Banquet,$$$$,10-15,Downtown,10-15,104400
+965,Well-Known,Cafeteria,$$$$,No seat,Downtown,7-10,64679
+966,Recent,Banquet,$,<10,Suburbs,10-15,62619
+967,Developed,Full Service Restaurant,$,15-20,Suburbs,Salad bar only,71148
+968,Developed,Banquet,$$$,No seat,Downtown,Salad bar only,82082
+969,Developed,Banquet,$$$,10-15,Downtown,Salad bar only,71183
+970,Well-Known,Cafeteria,$,No seat,Suburbs,< 5,28545
+971,Well-Known,Full Service Restaurant,$$$$,No seat,Suburbs,5-7,119677
+972,Developed,Banquet,$$,100+,Suburbs,< 5,69859
+973,Well-Known,Cafeteria,$$$,No seat,Suburbs,5-7,60870
+974,Well-Known,Full Service Restaurant,$$$$,90-100,Suburbs,5-7,129768
+975,Recent,Banquet,$$$$$,15-20,Suburbs,< 5,77279
+976,Developed,Full Service Restaurant,$$,No seat,Suburbs,< 5,82346
+977,Recent,Cafeteria,$$,15-20,Downtown,7-10,85356
+978,Developed,Banquet,$$$$$,10-15,Downtown,15+,106710
+979,Recent,Cafeteria,$,20-30,Downtown,Salad & Sandwich only,48515
+980,Recent,Full Service Restaurant,$$$$,30-50,Suburbs,Salad & Sandwich only,69775
+981,Recent,Full Service Restaurant,$,<10,Suburbs,Salad & Sandwich only,95745
+982,Well-Known,Full Service Restaurant,$$$$,90-100,Downtown,5-7,111687
+983,Well-Known,Cafeteria,$,30-50,Suburbs,15+,86035
+984,Developed,Cafeteria,$,<10,Suburbs,Salad bar only,38674
+985,Well-Known,Banquet,$$$$,10-15,Downtown,15+,106932
+986,Recent,Full Service Restaurant,$$$,15-20,Downtown,15+,123941
+987,Recent,Cafeteria,$$$$$,20-30,Downtown,10-15,93884
+988,Well-Known,Banquet,$$,10-15,Suburbs,15+,73063
+989,Recent,Banquet,$$,20-30,Suburbs,Salad bar only,64136
+990,Recent,Banquet,$$$,10-15,Suburbs,15+,71342
+991,Developed,Cafeteria,$$,70-90,Suburbs,Salad bar only,56309
+992,Recent,Cafeteria,$$$,15-20,Downtown,15+,85713
+993,Recent,Full Service Restaurant,$$,<10,Downtown,Salad & Sandwich only,93291
+994,Well-Known,Full Service Restaurant,$$$$,100+,Suburbs,< 5,118533
+995,Developed,Banquet,$$$$$,10-15,Downtown,15+,97571
+996,Developed,Cafeteria,$$$,<10,Suburbs,Salad bar only,58881
+997,Well-Known,Full Service Restaurant,$,70-90,Suburbs,15+,130402
+998,Developed,Cafeteria,$$$,100+,Suburbs,7-10,77586
+999,Recent,Cafeteria,$$$,20-30,Downtown,Salad bar only,54923
+1000,Recent,Cafeteria,$$$$,70-90,Suburbs,15+,91764
+1001,Recent,Cafeteria,$,<10,Downtown,< 5,34823
+1002,Recent,Banquet,$$$$$,<10,Downtown,7-10,78949
+1003,Developed,Banquet,$$,20-30,Suburbs,< 5,86482
+1004,Well-Known,Banquet,$$$$,30-50,Downtown,15+,149772
+1005,Developed,Full Service Restaurant,$,20-30,Suburbs,7-10,102515
+1006,Well-Known,Banquet,$$$,20-30,Suburbs,15+,94030
+1007,Developed,Full Service Restaurant,$$$,100+,Suburbs,10-15,114097
+1008,Recent,Banquet,$,30-50,Downtown,15+,93983
+1009,Developed,Cafeteria,$$$,30-50,Downtown,Salad bar only,62141
+1010,Recent,Banquet,$$$$,30-50,Suburbs,< 5,65272
+1011,Developed,Full Service Restaurant,$$$$$,No seat,Suburbs,7-10,81320
+1012,Recent,Full Service Restaurant,$$,No seat,Suburbs,Salad & Sandwich only,76777
+1013,Well-Known,Cafeteria,$$$$$,30-50,Suburbs,5-7,111350
+1014,Recent,Banquet,$,100+,Suburbs,< 5,61691
+1015,Developed,Banquet,$$$$$,70-90,Suburbs,5-7,84108
+1016,Developed,Cafeteria,$$,90-100,Suburbs,5-7,75663
+1017,Well-Known,Cafeteria,$$,100+,Suburbs,7-10,56817
+1018,Developed,Cafeteria,$$$$,10-15,Suburbs,Salad bar only,56669
+1019,Recent,Full Service Restaurant,$$,15-20,Suburbs,5-7,102739
+1020,Well-Known,Cafeteria,$$$$$,20-30,Suburbs,5-7,117435
+1021,Well-Known,Cafeteria,$,70-90,Suburbs,Salad bar only,34638
+1022,Well-Known,Banquet,$$$,10-15,Downtown,15+,80888
+1023,Developed,Cafeteria,$,<10,Downtown,10-15,28351
+1024,Developed,Full Service Restaurant,$$$$$,70-90,Suburbs,Salad & Sandwich only,73773
+1025,Recent,Cafeteria,$,50-70,Downtown,15+,105009
+1026,Well-Known,Banquet,$$$$$,20-30,Suburbs,7-10,137286
+1027,Developed,Cafeteria,$$$$,10-15,Downtown,Salad & Sandwich only,82953
+1028,Developed,Banquet,$$$,15-20,Downtown,7-10,119951
+1029,Developed,Full Service Restaurant,$,90-100,Suburbs,10-15,111757
+1030,Well-Known,Banquet,$$$,90-100,Downtown,15+,114844
+1031,Developed,Cafeteria,$$$$$,No seat,Downtown,< 5,79066
+1032,Recent,Cafeteria,$$,50-70,Suburbs,< 5,44429
+1033,Developed,Banquet,$$,20-30,Downtown,5-7,98012
+1034,Developed,Full Service Restaurant,$$$$$,50-70,Downtown,Salad & Sandwich only,114035
+1035,Well-Known,Banquet,$$$$$,20-30,Suburbs,Salad bar only,99834
+1036,Developed,Full Service Restaurant,$$,15-20,Downtown,10-15,101484
+1037,Developed,Full Service Restaurant,$,<10,Suburbs,10-15,75771
+1038,Well-Known,Full Service Restaurant,$$$$,15-20,Downtown,Salad bar only,98721
+1039,Developed,Full Service Restaurant,$$$$$,30-50,Suburbs,10-15,127482
+1040,Recent,Cafeteria,$$$$,10-15,Downtown,Salad & Sandwich only,68308
+1041,Developed,Banquet,$$$$,No seat,Suburbs,7-10,64988
+1042,Recent,Full Service Restaurant,$$$,100+,Suburbs,10-15,109229
+1043,Developed,Full Service Restaurant,$$$,20-30,Suburbs,10-15,116183
