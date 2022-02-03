@@ -143,8 +143,6 @@ Recent,Banquet,Los Angeles,$,<10,Suburbs,7-10,55572
 Well-Known,Full Service Restaurant,San Diego,$$$$,No seat,Suburbs,7-10,111932
 Recent,Cafeteria,Los Angeles,$$,50-70,Suburbs,10-15,91006
 Recent,Banquet,Los Angeles,$$,50-70,Suburbs,Salad & Sandwich only,52735
-Developed,Full Service Restaurant,San Diego,$,100+,Downtown,10-15,106285
-Developed,Full Service Restaurant,Sacramento,$$$$$,20-30,Downtown,Salad bar only,100509
 Well-Known,Banquet,Los Angeles,$$$$,<10,Suburbs,5-7,102037
 Developed,Banquet,San Diego,$$$,15-20,Downtown,15+,96920
 Recent,Cafeteria,Los Angeles,$,<10,Downtown,< 5,31078
